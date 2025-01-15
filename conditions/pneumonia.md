@@ -23,10 +23,10 @@
 
 - Oral antibiotic: If not severe and not vomiting (CURB-65 1–2)
 -  IV antibiotics: if severe (CURB-65 >2).
-- Oxygen: keep PaO2 >8.0 and/or saturation ≥94%.
-- IV ﬂuids
-- VTE prophylaxis.
-- Analgesia if pleurisy.
+- **Oxygen**: keep PaO2 >8.0 and/or saturation ≥94%.
+- **IV ﬂuids**
+- **VTE prophylaxis**.
+- **Analgesia** if pleurisy.
 - Consider ICU if shock, hypercapnia, or remains hypoxic.
 - Follow-up: at 6 weeks (±CXR).
 
