@@ -33,5 +33,12 @@
     "title": "Bronchiectasis",
     "description": "Chronic inﬂammation of the bronchi and bronchioles leading to permanent dilatation and thinning of these airways.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pneumonia.md"
+  },
+  {
+    "version": 0,
+    "key": "pulmonary_embolism_(pe)",
+    "title": "Pulmonary embolism (PE)",
+    "description": "Venous thrombi, usually from DVT, pass into the pulmonary circulation and block blood fl ow to lungs. The source is often occult.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pulmonary_embolism_(pe).md"
   }
 ]
