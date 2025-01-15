@@ -19,5 +19,19 @@
     "title": "Acute exacerbations of COPD",
     "description": "A common medical emergency especially in winter. May be triggered by viral or bacterial infections.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/acute_exacerbations_of_copd.md"
+  },
+  {
+    "version": 0,
+    "key": "pneumonia",
+    "title": "Pneumonia",
+    "description": "An acute lower respiratory tract infection associated with fever, symptoms and signs in the chest, and abnormalities on the chest x-ray",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pneumonia.md"
+  },
+  {
+    "version": 0,
+    "key": "bronchiectasis",
+    "title": "Bronchiectasis",
+    "description": "Chronic inﬂammation of the bronchi and bronchioles leading to permanent dilatation and thinning of these airways.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pneumonia.md"
   }
 ]
