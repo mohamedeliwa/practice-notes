@@ -5,5 +5,12 @@
     "title": "Peptic ulcer (Gastric ulcers)",
     "description": "open sores on the inner lining of the stomach and the upper part of the small intestine",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/peptic_ulcer.md"
+  },
+  {
+    "version": 0,
+    "key": "acute_severe_asthma",
+    "title": "Acute severe asthma",
+    "description": "",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/acute_severe_asthma.md"
   }
 ]
