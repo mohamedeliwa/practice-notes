@@ -12,5 +12,12 @@
     "title": "Acute severe asthma",
     "description": "",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/acute_severe_asthma.md"
+  },
+  {
+    "version": 0,
+    "key": "acute_exacerbations_of_copd",
+    "title": "Acute exacerbations of COPD",
+    "description": "A common medical emergency especially in winter. May be triggered by viral or bacterial infections.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/acute_exacerbations_of_copd.md"
   }
 ]
