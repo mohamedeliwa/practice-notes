@@ -4,6 +4,10 @@ Pericardial fluid accumulates, causing an increase in intrapericardial pressure,
 
 ## Management
 
+==If BP unrecordable, call the cardiac arrest team.==
+
+- Manage in Coronary Care Unit, or ICU.
+
 ## Investigations
 
 - Beck’s triad

@@ -7,6 +7,8 @@ dysfunction. It may occur suddenly, or after progressively worsening heart failu
 
 ==If the cause is myocardial infarction prompt reperfusion therapy is vital==
 
+==If BP unrecordable, call the cardiac arrest team.==
+
 - Manage in Coronary Care Unit, or ICU.
 ## Investigations
 
