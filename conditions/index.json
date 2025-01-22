@@ -61,5 +61,26 @@
     "title": "Cardiac tamponade",
     "description": "Pericardial fluid accumulates, causing an increase in intrapericardial pressure, which prevents the heart from filling properly and ultimately stops its pumping function.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/cardiac_tamponade.md"
+  },
+  {
+    "version": 0,
+    "key": "heat_exposure_(heat_exhaustion)",
+    "title": "Heat exposure (heat exhaustion)",
+    "description": "Mentions key items in Heat exposure management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/heat_exposure_(heat_exhaustion).md"
+  },
+  {
+    "version": 0,
+    "key": "hemorrhagic_shock",
+    "title": "Hemorrhagic shock",
+    "description": "Mentions key items in Hemorrhagic shock management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hemorrhagic_shock.md"
+  },
+  {
+    "version": 0,
+    "key": "hypovolemic_shock",
+    "title": "Hypovolemic shock",
+    "description": "Mentions key items in Hypovolemic shock management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hypovolemic_shock.md"
   }
 ]
