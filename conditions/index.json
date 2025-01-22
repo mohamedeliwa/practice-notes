@@ -33,5 +33,12 @@
     "title": "Pulmonary embolism (PE)",
     "description": "Venous thrombi, usually from DVT, pass into the pulmonary circulation and block blood fl ow to lungs. The source is often occult.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pulmonary_embolism_(pe).md"
+  },
+  {
+    "version": 0,
+    "key": "anaphylactic_shock_(anaphylaxis)",
+    "title": "Anaphylactic shock (Anaphylaxis)",
+    "description": "Type I IgE-mediated hypersensitivity reaction. Release of histamine and other agents causes: capillary leak; wheeze; cyanosis; oedema (larynx, lids, tongue, lips); urticaria. More common in atopic individuals.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/anaphylactic_shock_(anaphylaxis).md"
   }
 ]
