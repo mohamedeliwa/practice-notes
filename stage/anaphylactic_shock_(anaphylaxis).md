@@ -9,6 +9,7 @@ More common in atopic individuals.
 - `ABCDE` : with shock we are dealing primarily with `C`
 - 2 large-bore `IV access`
 - `ECG`: for rate, rhythm (very fast or very slow will compromise cardiac output), and signs of ischemia.
+- General review: any features suggestive of anaphylaxis—`history`, `urticaria`, `angioedema`, `wheeze`?
 
 ==If BP unrecordable, call the cardiac arrest team.==
 
@@ -20,7 +21,7 @@ More common in atopic individuals.
 	- `Intubate` if respiratory obstruction imminent
 - Remove the `cause`
 - `Raising the feet` may help restore the circulation
-- Give `adrenaline` IM 0.5mg
+- Give `adrenaline` IM 0.5mg [^1]
 	- Repeat every 5min, if needed
 	- Guided by BP, pulse, and respiratory function, until better
 - Secure `IV access`
@@ -46,7 +47,7 @@ More common in atopic individuals.
 - `Skin-prick tests` showing specific IgE help identify allergens to avoid.
 
 
-> [!NOTE] Adrenaline (epinephrine)
+> [!NOTE] [^1] Adrenaline (epinephrine)
 > Is given IM and NOT IV unless the patient is severely ill, or has no pulse.
 > The `IV dose` is different: 100mcg/min—titrating with the response.
 >This is 0.5mL of 1 : 10 000 solution IV per minute.

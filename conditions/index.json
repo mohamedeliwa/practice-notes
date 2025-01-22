@@ -40,5 +40,12 @@
     "title": "Anaphylactic shock (Anaphylaxis)",
     "description": "Type I IgE-mediated hypersensitivity reaction. Release of histamine and other agents causes: capillary leak; wheeze; cyanosis; oedema (larynx, lids, tongue, lips); urticaria. More common in atopic individuals.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/anaphylactic_shock_(anaphylaxis).md"
+  },
+  {
+    "version": 0,
+    "key": "sepsis_(septic_shock)",
+    "title": "Sepsis (Septic shock)",
+    "description": "Sepsis Life-threatening organ dysfunction caused by a dysregulated host response to infection",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/sepsis_(septic_shock).md"
   }
 ]
