@@ -18,7 +18,7 @@ Septic shock Sepsis in combination with:
 	- `Conscious level`
 - Localize `source of infection`: don’t forget to assess wounds/ulcers which may be hidden.
 
-==If BP unrecordable, call the cardiac arrest team.==
+<mark>If BP unrecordable, call the cardiac arrest team.</mark>
 
 ## Investigations
 
