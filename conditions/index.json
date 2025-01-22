@@ -33,5 +33,54 @@
     "title": "Pulmonary embolism (PE)",
     "description": "Venous thrombi, usually from DVT, pass into the pulmonary circulation and block blood fl ow to lungs. The source is often occult.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pulmonary_embolism_(pe).md"
+  },
+  {
+    "version": 0,
+    "key": "anaphylactic_shock_(anaphylaxis)",
+    "title": "Anaphylactic shock (Anaphylaxis)",
+    "description": "Type I IgE-mediated hypersensitivity reaction. Release of histamine and other agents causes: capillary leak; wheeze; cyanosis; oedema (larynx, lids, tongue, lips); urticaria. More common in atopic individuals.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/anaphylactic_shock_(anaphylaxis).md"
+  },
+  {
+    "version": 0,
+    "key": "sepsis_(septic_shock)",
+    "title": "Sepsis (Septic shock)",
+    "description": "Sepsis Life-threatening organ dysfunction caused by a dysregulated host response to infection",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/sepsis_(septic_shock).md"
+  },
+  {
+    "version": 0,
+    "key": "cardiogenic_shock",
+    "title": "Cardiogenic shock",
+    "description": "Cardiogenic shock is a state of inadequate tissue perfusion primarily due to cardiac dysfunction. It may occur suddenly, or after progressively worsening heart failure.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/cardiogenic_shock.md"
+  },
+  {
+    "version": 0,
+    "key": "cardiac_tamponade",
+    "title": "Cardiac tamponade",
+    "description": "Pericardial fluid accumulates, causing an increase in intrapericardial pressure, which prevents the heart from filling properly and ultimately stops its pumping function.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/cardiac_tamponade.md"
+  },
+  {
+    "version": 0,
+    "key": "heat_exposure_(heat_exhaustion)",
+    "title": "Heat exposure (heat exhaustion)",
+    "description": "Mentions key items in Heat exposure management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/heat_exposure_(heat_exhaustion).md"
+  },
+  {
+    "version": 0,
+    "key": "hemorrhagic_shock",
+    "title": "Hemorrhagic shock",
+    "description": "Mentions key items in Hemorrhagic shock management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hemorrhagic_shock.md"
+  },
+  {
+    "version": 0,
+    "key": "hypovolemic_shock",
+    "title": "Hypovolemic shock",
+    "description": "Mentions key items in Hypovolemic shock management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hypovolemic_shock.md"
   }
 ]
