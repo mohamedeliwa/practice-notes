@@ -5,9 +5,9 @@ dysfunction. It may occur suddenly, or after progressively worsening heart failu
 
 # Management
 
-==If the cause is myocardial infarction prompt reperfusion therapy is vital==
+<mark>If the cause is myocardial infarction prompt reperfusion therapy is vital</mark>
 
-==If BP unrecordable, call the cardiac arrest team.==
+<mark>If BP unrecordable, call the cardiac arrest team.</mark>
 
 - Manage in Coronary Care Unit, or ICU.
 ## Investigations
@@ -62,5 +62,5 @@ dysfunction. It may occur suddenly, or after progressively worsening heart failu
 > Shock can result from inadequate CO or a loss of SVR, or both.
 
 
-> [!NOTE] Cardiac tamponade
+> [!NOTE] Cardiac tamponade <br />
 > For its management, please check cardiac tamponade article 

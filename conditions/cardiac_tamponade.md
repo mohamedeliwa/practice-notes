@@ -4,17 +4,16 @@ Pericardial fluid accumulates, causing an increase in intrapericardial pressure,
 
 ## Management
 
-==If BP unrecordable, call the cardiac arrest team.==
+<mark>If BP unrecordable, call the cardiac arrest team.</mark>
 
 - Manage in Coronary Care Unit, or ICU.
 
 ## Investigations
 
-- Beck’s triad
-	- `BP`: reduced
-	- `JVP`: reduced
-	- `Muffled heart sounds`
-- `JVP`: increased on inspiration (Kussmaul’s sign)
+- `BP`: reduced
+- `JVP`: increased
+- `Muffled heart sounds`
+- `JVP`: increased on inspiration
 - `Pulsus paradoxus` (pulse fades on inspiration)
 - `Echo` may be diagnostic
 - `CXR`: 
@@ -29,12 +28,12 @@ Pericardial fluid accumulates, causing an increase in intrapericardial pressure,
 - Give `O2` target arterial saturations of 94–98% (88–92% if COPD)
 - Monitor `ECG`
 - `Blood group` (ABO and Rh type)
-	- Storing the blood sample so it can be cross-matched  if a transfusion is required
+	- Storing the blood sample so it can be `cross-matched`  if a transfusion is required
 - Set up `IVI`
 - There may be a role for `cardiothoracic surgery` as a definitive solution to some causes.
 
 
 
-> [!NOTE] Cardiogenic shock
+> [!NOTE] Cardiogenic shock<br />
 > This article specifically addresses items specific to **cardiac tamponade** management
 > For comprehensive management of **cardiogenic shock**, please refer to the cardiac shock article. 
