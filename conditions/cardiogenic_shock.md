@@ -1,7 +1,8 @@
 # Cardiogenic shock
 
-Cardiogenic shock is a state of inadequate tissue perfusion primarily due to cardiac
-dysfunction. It may occur suddenly, or after progressively worsening heart failure.
+A state of inadequate tissue perfusion primarily due to cardiac
+dysfunction. \
+It may occur suddenly, or after progressively worsening heart failure.
 
 # Management
 
@@ -56,11 +57,11 @@ dysfunction. It may occur suddenly, or after progressively worsening heart failu
 
 
 
-> MAP = mean arterial pressure.
-> MAP = cardiac output (CO) x systemic vascular resistance (SVR).
-> CO = stroke volume x heart rate.
-> Shock can result from inadequate CO or a loss of SVR, or both.
+> MAP = mean arterial pressure.\
+> MAP = cardiac output (CO) x systemic vascular resistance (SVR).\
+> CO = stroke volume x heart rate.\
+> Shock can result from inadequate CO or a loss of SVR, or both.\
 
 
-> [!NOTE] Cardiac tamponade <br />
+> [!NOTE] Cardiac tamponade \
 > For its management, please check cardiac tamponade article 
