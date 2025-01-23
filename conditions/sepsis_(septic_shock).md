@@ -1,7 +1,7 @@
 # Sepsis (Septic shock)
 
-Sepsis Life-threatening organ dysfunction caused by a dysregulated host response
-to infection.
+Life-threatening organ dysfunction caused by a dysregulated host response to infection.
+
 Septic shock Sepsis in combination with:
 - EITHER `lactate >2mmol/L` despite adequate fluid resuscitation
 - OR the patient is requiring `vasopressors` to maintain MAP ≥65mmHg.
