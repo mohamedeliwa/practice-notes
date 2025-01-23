@@ -2,7 +2,7 @@
 
 Life-threatening organ dysfunction caused by a dysregulated host response to infection.
 
-Septic shock Sepsis in combination with:
+Septic shock is Sepsis in combination with:
 - EITHER `lactate >2mmol/L` despite adequate fluid resuscitation
 - OR the patient is requiring `vasopressors` to maintain MAP ≥65mmHg.
 
@@ -62,3 +62,8 @@ Septic shock Sepsis in combination with:
 	- Reduced GCS
 	- Raised lactate not reduced by >20%
 
+
+> MAP = mean arterial pressure.\
+> MAP = cardiac output (CO) x systemic vascular resistance (SVR).\
+> CO = stroke volume x heart rate.\
+> Shock can result from inadequate CO or a loss of SVR, or both.\

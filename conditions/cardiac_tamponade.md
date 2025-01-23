@@ -34,6 +34,6 @@ Pericardial fluid accumulates, causing an increase in intrapericardial pressure,
 
 
 
-> [!NOTE] Cardiogenic shock<br />
-> This article specifically addresses items specific to **cardiac tamponade** management
+> [!NOTE] Cardiogenic shock \
+> This article specifically addresses items specific to **cardiac tamponade** management\
 > For comprehensive management of **cardiogenic shock**, please refer to the cardiac shock article. 

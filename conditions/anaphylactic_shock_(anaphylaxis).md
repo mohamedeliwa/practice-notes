@@ -47,9 +47,9 @@ More common in atopic individuals.
 - `Skin-prick tests` showing specific IgE help identify allergens to avoid.
 
 
-> [!NOTE] Adrenaline (epinephrine) <br />
-> Is given IM and NOT IV unless the patient is severely ill, or has no pulse.
->The `IV dose` is different: 100mcg/min—titrating with the response.
->This is 0.5mL of 1 : 10 000 solution IV per minute.
->Stop as soon as a response has been obtained.
+> [!NOTE] Adrenaline (epinephrine) \
+> Is given IM and NOT IV unless the patient is severely ill, or has no pulse.\
+>The `IV dose` is different: 100mcg/min—titrating with the response.\
+>This is 0.5mL of 1 : 10 000 solution IV per minute.\
+>Stop as soon as a response has been obtained.\
 >If on a Beta-blocker, consider salbutamol IV in place of adrenaline.
