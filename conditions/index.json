@@ -82,5 +82,12 @@
     "title": "Hypovolemic shock",
     "description": "Mentions key items in Hypovolemic shock management.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hypovolemic_shock.md"
+  },
+  {
+    "version": 0,
+    "key": "acute_coronary_syndrome_with_st_elevation_(stemi)",
+    "title": "Acute coronary syndrome—with ST-elevation (STEMI)",
+    "description": "Mentions key items in Acute STEMI management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/acute_coronary_syndrome_with_st_elevation_(stemi).md"
   }
 ]
