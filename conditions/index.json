@@ -96,5 +96,12 @@
     "title": "Acute coronary syndrome—without ST-elevation (non STEMI)",
     "description": "Mentions key items in Acute Non STEMI management.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/acute_coronary_syndrome_without_st_elevation_(non_stemi).md"
+  },
+  {
+    "version": 0,
+    "key": "severe_pulmonary_oedema",
+    "title": "Severe pulmonary oedema",
+    "description": "Mentions key items in Acute Non STEMI management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/severe_pulmonary_oedema.md"
   }
 ]
