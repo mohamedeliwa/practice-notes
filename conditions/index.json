@@ -103,5 +103,12 @@
     "title": "Severe pulmonary oedema",
     "description": "Mentions key items in Acute Non STEMI management.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/severe_pulmonary_oedema.md"
+  },
+  {
+    "version": 0,
+    "key": "broad_complex_tachycardia",
+    "title": "Broad complex tachycardia",
+    "description": "Ventricular tachycardia (VT) including torsade de pointes, SVT with aberrant conduction, e.g. AF or atrial flutter, with bundle branch block. Pre-excited tachycardias, e.g. AF, atrial flutter, or AV re-entry tachycardia, with underlying WPW.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/broad_complex_tachycardia.md"
   }
 ]
