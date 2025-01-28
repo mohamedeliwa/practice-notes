@@ -1,6 +1,7 @@
 # Broad complex tachycardia
 
 ECG shows rate of >100bpm and QRS complexes >120ms (>3 small squares).
+
 Differential diagnosis : Ventricular tachycardia (VT) including torsade de pointes, SVT with aberrant conduction, e.g. AF or atrial flutter, with bundle branch block. Pre-excited tachycardias, e.g. AF, atrial flutter, or AV re-entry tachycardia, with underlying WPW.
 
 <mark> If in doubt, treat as VT </mark>
@@ -66,5 +67,5 @@ Differential diagnosis : Ventricular tachycardia (VT) including torsade de point
 
 > [!Note]
 > 
-> Energies given are for a typical biphasic defibrillator (preferred).
+> Energies given are for a typical biphasic defibrillator (preferred).\
 > If a monophasic shock used, higher energies will be required.
