@@ -124,5 +124,12 @@
     "title": "Bradycardia",
     "description": "The immediate management tends to relate more to cause and adverse signs than to the underlying rhythm, which may be Sinus bradycardia, Heart block, AF with a slow ventricular response, Atrial flutter with a high-degree block, Junctional bradycardia",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/bradycardia.md"
+  },
+  {
+    "version": 0,
+    "key": "pneumothorax",
+    "title": "Pneumothorax",
+    "description": "Mentions key items in pneumothorax management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pneumothorax.md"
   }
 ]
