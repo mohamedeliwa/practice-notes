@@ -117,5 +117,12 @@
     "title": "Narrow complex tachycardia",
     "description": "Sinus tachycardia, Atrial fibrillation (AF), Atrial flutter, Atrial tachycardia, Multifocal atrial tachycardia, AV nodal re-entry tachycardia, AV re-entry tachycardia (e.g. WPW)",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/narrow_complex_tachycardia.md"
+  },
+  {
+    "version": 0,
+    "key": "bradycardia",
+    "title": "Bradycardia",
+    "description": "The immediate management tends to relate more to cause and adverse signs than to the underlying rhythm, which may be Sinus bradycardia, Heart block, AF with a slow ventricular response, Atrial flutter with a high-degree block, Junctional bradycardia",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/bradycardia.md"
   }
 ]
