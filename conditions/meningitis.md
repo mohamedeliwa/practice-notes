@@ -69,4 +69,4 @@ needed. `Isolate` for 1st 24h. Inform Public Health.
 
 - Discuss with public health/ID
 - Household contacts in droplet range
-- Those who have kissed the patient’s mouth. Give `ciprofloxacin` (500mg PO, 1 dose; child 5–12yrs: 250mg; child <5yrs: 30mg/kg to max 125mg)
+- Those who have kissed the patient’s mouth. Give `ciprofloxacin` (500mg oral, 1 dose; child 5–12yrs: 250mg; child <5yrs: 30mg/kg to max 125mg)
