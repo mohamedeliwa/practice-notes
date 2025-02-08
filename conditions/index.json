@@ -145,5 +145,12 @@
     "title": "Meningitis",
     "description": "Mentions key items in suspected bacterial meningitis and meningococcal sepsis.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/meningitis.md"
+  },
+  {
+    "version": 0,
+    "key": "encephalitis",
+    "title": "Encephalitis",
+    "description": "Suspect encephalitis whenever odd behavior, reduced consciousness, focal neurology, or seizures occur after an infectious prodrome (fever, rash, lymphadenopathy, cold sores, conjunctivitis, or meningeal signs).",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/encephalitis.md"
   }
 ]
