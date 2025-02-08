@@ -152,5 +152,12 @@
     "title": "Encephalitis",
     "description": "Suspect encephalitis whenever odd behavior, reduced consciousness, focal neurology, or seizures occur after an infectious prodrome (fever, rash, lymphadenopathy, cold sores, conjunctivitis, or meningeal signs).",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/encephalitis.md"
+  },
+  {
+    "version": 0,
+    "key": "cerebral_abscess",
+    "title": "Cerebral abscess",
+    "description": "Suspect this in any patient with increased ICP, especially if there is fever or increased TLC. It may follow ear, sinus, dental, or periodontal infection; skull fracture; congenital heart disease; endocarditis; bronchiectasis. It may also occur in the absence of systemic signs of inflammation.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/cerebral_abscess.md"
   }
 ]
