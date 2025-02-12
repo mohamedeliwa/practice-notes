@@ -1,2 +1,2 @@
-- [ ] review and modify status epilepticus article `in progress...`
-- [ ]
+- [x] review and modify status epilepticus article 
+- [ ] write head injury article `in progress...`
