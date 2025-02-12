@@ -60,7 +60,8 @@ Consider <mark> eclampsia </mark> in pregnant patients and check the `urine` and
 - do not use if bradycardiac or heart block.
 - `Warning`: Monitor BP and ECG for potential hypotension or bradycardia.
 - If ﬁts continue 
-- General anesthesia (with e.g. `propofol`) and `ventilation` with continuous `EEG` monitoring in `ICU`. 
+- General anesthesia (with e.g. `propofol`) and `ventilation` with continuous `EEG` monitoring in `ICU`.
+- Continuous monitoring is critical, especially for respiratory function. 
 
 > [!Note] General anesthesia
 >    
@@ -69,7 +70,6 @@ Consider <mark> eclampsia </mark> in pregnant patients and check the `urine` and
 > Never spend longer than 20min on someone with status epilepticus without having help at the bedside from an anaesthetist
 > 
 
-- Continuous monitoring is critical, especially for respiratory function. 
 - Rule out pseudo-seizures if there are odd features (e.g., pelvic thrusts; resisting attempts to open lids and your attempts to do passive movements; arms and legs ﬂailing around).
 - `Dexamethasone`: 10mg IV if vasculitis/cerebral oedema (tumour) possible.
 - `After Seizures are Controlled` Start oral anticonvulsants and identify potential causes (e.g., hypoglycemia, pregnancy, alcohol, CNS infections, or inadequate anticonvulsant dosing/compliance).
