@@ -33,11 +33,14 @@ Retinal vein pulsation at `fundoscopy` helps exclude increased ICP.
             - Coagulopathy
             - High-impact injury (e.g., vehicle collision, fall >1m)
             - Retrograde amnesia >30min.
-3. **Cervical Spine Injury:**
+3. **If Cervical Spine Injury suspected**:
     
     - **<1h CT** if:
-        - GCS <13, patient intubated, or requires urgent cervical spine diagnosis (e.g., before surgery).
-        - High-risk features like age >65, high-impact injury, neurological deficit, or paraesthesia in limbs.
+        - GCS <13,
+        - patient intubated,
+        - Requires urgent definitive diagnosis of cervical spine injury (e.g., before surgery).
+        - Requires being scanned for injuries in other parts of the body, such as with multiple injuries.
+        - High-risk features like age >65, high-impact injury, focal neurological deficit, or paraesthesia in limbs. `in progress...`
     - **Low-Risk Features**: If absent, assess neck movement and, if needed, obtain **plain X-rays** within 1 hour. If the X-ray is inadequate or abnormal, proceed to CT.
 4. **Admission Criteria:**
     
