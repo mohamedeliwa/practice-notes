@@ -5,17 +5,45 @@ hemorrhage, and summon urgent neurosurgical help.
 
 Retinal vein pulsation at `fundoscopy` helps exclude increased ICP.
 
+## Investigations
+
+- `Urea` & `Creatinine`
+- `Electrolytes`
+- `Glucose`
+- `CBC`
+- `Blood Alcohol`
+- `Toxicology screen`
+- `ABGs`
+- `Clotting`
+
 ## Management
 
 1. **Initial Priority:**
 	
 	- <mark> Stabilization of airway, breathing, and circulation </mark>(ABC) remains the 1st priority. 
+	- Oxygen if sat < 92%
+	- Intubate and hyperventilate if necessary
+	- `Immobilize neck` until injury to cervical spine excluded
+	- `Treat for shock` if required, stop bleeding and support circulation
+	- Treat seizures with `lorazepam` and/or `phenytoin` (see status epilepticus article)
+	- Assess level of consciousness (GCS)
 	- <mark> If GCS ≤8 </mark> then seek urgent anesthetic and ICU help to protect airway. 
 	- Write full notes,  Record times
 	- Involve `neurosurgeons` early, especially if reduced GCS, or if increased ICP suspected
-	- Examine the CNS.
+	- Rapid examination survey
 	- Record `pulse`, `BP`, `T°`, `respirations`, and `pupils` every 15min.
 	- Assess `anterograde amnesia` (loss from the time of injury, i.e. post-traumatic) and `retrograde amnesia` (for events prior to injury)—extent of retrograde loss correlates with severity of injury, and never occurs without anterograde amnesia.
+	- Do  blood `investigations`
+	- `CNS examination`
+	- `Evaluate lacerations` of face or scalp
+	- Check for `CSF leak` from nose or ear or any `blood` behind the ear drum
+		- if either is present, suspect basilar skull fracture
+		- Do `CT` 
+		- Give `tetanus toxoid`
+		- Refer to `neurosurgeons` urgently
+	- Palpate the neck posteriorly for tenderness and deformity,
+	- If detected, or if the patient has other indicators for neck imaging, immobilize the neck and get cervical spine X-ray or CT neck (see below)
+	- Radiology: As indicated: CT of head/neck (see below) Consider need for trauma series (eg CT chest/abdo/pelvis)
 	- **Positioning**: Semi-prone if no spinal injury, with attention to airway and bladder care.
 	
 2. **CT Head Scanning Criteria:**
@@ -44,39 +72,21 @@ Retinal vein pulsation at `fundoscopy` helps exclude increased ICP.
     - **< 1h X-ray** of cervical spine can be done if the above-listed criteria are `NOT` met.
 4. **Admission Criteria:**
     
-    - New clinically significant CT abnormalities.
-    - GCS <15 post-CT or other worrying signs (e.g., vomiting).
-    - Suspicion of non-accidental injury, drugs/alcohol, CSF leak, or shock.
-5. **Alcohol and Coma:**
-    
-    - Do not attribute reduced GCS to alcohol until a head injury is excluded.
-    - **Plasma alcohol <44mmol/L**: unlikely to cause coma.
-    - Blood alcohol can be estimated from osmolar gap.
-6. **Transfer and Neurosurgical Consultation:**
+    - New clinically significant `CT abnormalities`.
+    - `GCS <15` after CT, regardless of CT result or continuing worrying signs (e.g. vomiting).
+    - when `CT indications` met but CT unavailable
+    - Suspicion of non-accidental injury, drugs/alcohol, Meningism, CSF leak, or shock.
+
+> [!Note] 
+> 
+> Do not attribute reduced GCS to alcohol until a significant head injury has been excluded.
+> Alcohol is an unlikely cause of coma if plasma alcohol <44mmol/L. 
+> If unavailable, estimate blood alcohol level from the osmolar gap. 
+> If blood alcohol ≈ 40mmol/L, osmolar gap ≈ 40mmol/L.
+
+5. **Transfer and Neurosurgical Consultation:**
     
     - Discuss cases with significant CT abnormalities, persistent low GCS, deteriorating GCS, or other complications.
     - Ensure skilled medical escort and consider intubation before transfer if needed.
-7. **Complications:**
-    
-    - **Early**: Extradural/subdural hemorrhage, seizures.
-    - **Late**: Subdural hematoma, seizures, diabetes insipidus, parkinsonism, dementia.
-8. **Poor Prognosis Indicators**:
-    
-    - Old age, decerebrate rigidity, extensor spasms, prolonged coma, high BP, low PaO2, and T° >39°C.
-    - **Survival**: 60% of those with >1 month loss of consciousness may survive, but with significant care needs (daily nursing).
 
 ---
-
-### **Investigation & Management Algorithm:**
-
-1. **Initial Stabilization**: ABC management. GCS ≤8 → urgent anaesthetic and ICU involvement.
-2. **Neurosurgical Consultation**: Early involvement if reduced GCS or signs of increased ICP.
-3. **Neurological Monitoring**: Assess vitals and neurological status (every 15 mins).
-4. **CT Head (if criteria met)**:
-    - **<1h**: GCS <13 or <15 after 2h, focal deficits, suspected fractures, seizures, vomiting.
-    - **<8h**: Loss of consciousness or amnesia with risk factors.
-5. **Cervical Spine Injury**: If indicated by risk features, perform CT or X-ray (plain if low-risk).
-6. **Admission**: Based on CT abnormalities, GCS <15, and concerns (e.g., alcohol, injury).
-7. **Neurosurgical Discussion**: For severe abnormalities, deteriorating condition, or other concerns.
-8. **Complications Management**: Watch for early hemorrhage, seizures, and late sequelae (e.g., diabetes insipidus, dementia).
-9. **Prognosis Assessment**: Consider age and signs of severe injury for outcome prediction.

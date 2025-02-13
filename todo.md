@@ -1,4 +1,5 @@
 - [x] review and modify status epilepticus article
 - [x] write head injury article
 - [ ] review head injury article
-  - [ ] cervical spine injury, low risk features `in progress...`
+  - [x] cervical spine injury, low risk features
+  - [ ] review rearrange management algorithm `in progress...`
