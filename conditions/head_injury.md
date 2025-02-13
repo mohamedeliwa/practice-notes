@@ -20,13 +20,15 @@ Retinal vein pulsation at `fundoscopy` helps exclude increased ICP.
 	
 2. **CT Head Scanning Criteria:**
     
-    - **<1h CT**:
-        - GCS <13 or GCS <15 after 2 hours.
-        - Focal neurological deficits.
-        - Suspected skull fractures, including basal skull fractures (e.g., "panda eyes", "Battle's sign", CSF leak, haemotympanum).
-        - Post-traumatic seizure or vomiting more than once.
-    - **<8h CT**:
-        - Any loss of consciousness or amnesia, with one of the following:
+    - **<1h CT If**:
+        - `GCS <13` on initial assessment, or `GCS <15` at 2h following injury.
+        - Focal `neurological deficits`.
+        - Suspected open or depressed `skull fractures`, 
+        - signs of basal skull fractures e.g. `periobital ecchymoses` (‘panda’ eyes/racoon sign), `postauricular ecchymosis` (Battle’s sign), `CSF leak` through nose/ears, `hemotympanum`.
+        - Post-traumatic `seizure`
+        - `Vomiting` more than once.
+    - **<8h CT If**:
+        - Any `loss of consciousness` or `amnesia`, with one of the following:
             - Age ≥65
             - Coagulopathy
             - High-impact injury (e.g., vehicle collision, fall >1m)
