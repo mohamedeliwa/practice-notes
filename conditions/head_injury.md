@@ -40,8 +40,8 @@ Retinal vein pulsation at `fundoscopy` helps exclude increased ICP.
         - patient intubated,
         - Requires urgent definitive diagnosis of cervical spine injury (e.g., before surgery).
         - Requires being scanned for injuries in other parts of the body, such as with multiple injuries.
-        - High-risk features like age >65, high-impact injury, focal neurological deficit, or paraesthesia in limbs. `in progress...`
-    - **Low-Risk Features**: If absent, assess neck movement and, if needed, obtain **plain X-rays** within 1 hour. If the X-ray is inadequate or abnormal, proceed to CT.
+        - High-risk features like age >65, high-impact injury, focal neurological deficit, or paraesthesia in limbs. 
+    - **< 1h X-ray** of cervical spine can be done if the above-listed criteria are `NOT` met.
 4. **Admission Criteria:**
     
     - New clinically significant CT abnormalities.
