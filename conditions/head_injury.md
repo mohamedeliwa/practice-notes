@@ -1,16 +1,23 @@
 # Head Injury
-### Summary:
 
-#### Head Injury Management:
+<mark> If the pupils are unequal, </mark> diagnose rising intracranial pressure (ICP), e.g. from extradural
+hemorrhage, and summon urgent neurosurgical help.
+
+Retinal vein pulsation at `fundoscopy` helps exclude increased ICP.
+
+## Management
 
 1. **Initial Priority:**
-    
-    - **Stabilize Airway, Breathing, and Circulation (ABC)**.
-    - If **GCS ≤8**, urgently involve anesthesia and ICU for airway protection.
-    - **Involve neurosurgeons early** if GCS reduced or increased ICP is suspected.
-    - Regular neurological monitoring: pulse, BP, temperature, respirations, and pupils every 15 minutes.
-    - Assess amnesia (anterograde and retrograde) to evaluate injury severity.
-    - **Positioning**: Semi-prone if no spinal injury, with attention to airway and bladder care.
+	
+	- <mark> Stabilization of airway, breathing, and circulation </mark>(ABC) remains the 1st priority. 
+	- <mark> If GCS ≤8 </mark> then seek urgent anesthetic and ICU help to protect airway. 
+	- Write full notes,  Record times
+	- Involve `neurosurgeons` early, especially if reduced GCS, or if increased ICP suspected
+	- Examine the CNS.
+	- Record `pulse`, `BP`, `T°`, `respirations`, and `pupils` every 15min.
+	- Assess `anterograde amnesia` (loss from the time of injury, i.e. post-traumatic) and `retrograde amnesia` (for events prior to injury)—extent of retrograde loss correlates with severity of injury, and never occurs without anterograde amnesia.
+	- **Positioning**: Semi-prone if no spinal injury, with attention to airway and bladder care.
+	
 2. **CT Head Scanning Criteria:**
     
     - **<1h CT**:
