@@ -180,5 +180,12 @@
     "title": "Raised intracranial pressure (ICP)",
     "description": "The volume inside the cranium is ﬁxed, so any increase in the contents can lead to raised ICP. This can be mass effect, edema, or obstruction to ﬂuid outﬂow. Normal ICP in adults is <15mmHg.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/raised_intracranial_pressure_(icp).md"
+  },
+  {
+    "version": 0,
+    "key": "diabetic_ketoacidosis_(dka)",
+    "title": "Diabetic Ketoacidosis (DKA)",
+    "description": "In acute diabetic ketoacidosis, the body cannot use glucose effectively due to a lack of insulin, so pushing the body into a starvation-like state where ketoacidosis is the only mechanism of energy production.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/raised_intracranial_pressure_(icp).md"
   }
 ]
