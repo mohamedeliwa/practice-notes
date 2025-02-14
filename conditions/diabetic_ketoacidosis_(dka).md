@@ -1,15 +1,11 @@
-### **Summary of Diabetic Ketoacidosis (DKA) with Investigation and Treatment Algorithm**
+# Diabetic Ketoacidosis (DKA)
 
 ---
 
-**Mechanism:** In DKA, the body cannot use glucose effectively due to a lack of insulin, leading to the breakdown of fat for energy, producing ketones. This results in **hyperglycemia**, **ketoacidosis**, and dehydration, which can be life-threatening if untreated.
+Ketoacidosis is an alternative metabolic pathway used in starvation states; it is far less efficient than normal pathway, and produces acetone as a byproduct (hence the fruity breath of patients in ketosis). 
 
-**Typical Picture:**
-
-- Gradual onset of **drowsiness**, **vomiting**, and **dehydration**.
-- Common in **Type 1 diabetes** but can rarely occur in **Type 2**.
-- Symptoms: Unexplained **vomiting**, **abdominal pain**, **polyuria**, **polydipsia**, lethargy, **ketotic breath**, and **deep breathing** (Kussmaul hyperventilation).
-- Triggers: **Infection**, **MI**, **surgery**, **pancreatitis**, **chemotherapy**, **antipsychotics**, **insulin non-compliance**.
+In acute diabetic ketoacidosis, the body cannot use glucose effectively due to a lack of insulin, so pushing the body into a starvation-like state where ketoacidosis is the only mechanism of energy production. 
+This results in **hyperglycemia**, **ketoacidosis**, and **dehydration**, which can be life-threatening if untreated.
 
 ---
 
