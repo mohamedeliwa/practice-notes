@@ -173,5 +173,12 @@
     "title": "Head Injury",
     "description": "Mentions key items in head injury management.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/head_injury.md"
+  },
+  {
+    "version": 0,
+    "key": "raised_intracranial_pressure_(icp)",
+    "title": "Raised intracranial pressure (ICP)",
+    "description": "The volume inside the cranium is ﬁxed, so any increase in the contents can lead to raised ICP. This can be mass effect, edema, or obstruction to ﬂuid outﬂow. Normal ICP in adults is <15mmHg.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/raised_intracranial_pressure_(icp).md"
   }
 ]
