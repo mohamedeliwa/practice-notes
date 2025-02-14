@@ -81,28 +81,13 @@ Replace volume then correct metabolic defects
 
 ### **Pitfalls:**
 
-- **Plasma glucose** may not be very high if insulin is continued.
-- **WBC count** can be elevated even without infection.
-- **Hyponatremia** is common due to osmolar compensation; corrected Na+ should be calculated.
-- **Ketonuria** does not always indicate ketoacidosis—check blood ketones.
-- **Recurrent DKA** can occur if insulin is stopped prematurely, before ketones clear.
-- **Non-diabetic causes of acidosis** (e.g., aspirin overdose, lactic acidosis) should be considered if glucose is normal.
+- **Plasma glucose** is not always high especially if insulin continued.
+- **High WCC** may be seen in the absence of infection
+- **Infection**. Often there is no fever. Do cultures, and CXR. Start broad spectrum antibiotics (e.g. co-amoxiclav) early if infection is suspected.
+- **Creatinine**. Some assays for creatinine cross-react with ketone bodies, so plasma creatinine may not reflect true renal function.
+- **Hyponatremia** is common, due to osmolar compensation for the hyperglycemia. ↑ or ↔  [Na⁺] indicates severe water loss. As treatment commences Na⁺ rises as water enters cells. Na⁺ is also low due to an artefact; corrected plasma [Na⁺] = Na⁺ + 2.4[(glucose -5.5)/5.5].
+- **Ketonuria** does not equate with ketoacidosis. Anyone may have up to ++ketonuria after an overnight fast. Not all ketones are due to diabetes—consider alcohol if glucose normal. Always check venous blood ketones.
+- **Recurrent DKA** Blood glucose may return to normal long before ketones are removed from the blood, and premature termination of insulin infusion may lead to lack of clearance and return to DKA. This may be avoided by maintaining a constant rate of insulin infusion (with co-infusion of glucose 10% to maintain plasma glucose at 6–10mmol/L) until blood ketones <0 . 6mmol/L and pH >7.3.
+- **Acidosis** but without gross elevation of glucose may occur, but consider overdose (e.g. aspirin) and lactic acidosis (in elderly diabetics).
 
 ---
-
-### **Complications:**
-
-- **Cerebral oedema**: Seek help if there is sudden CNS decline.
-- **Aspiration pneumonia**
-- **Electrolyte imbalances**: Hypokalemia, hypomagnesemia, hypophosphatemia.
-- **Thromboembolism**
-
----
-
-### **Prevention:**
-
-- Educate patients on **insulin compliance** and recognizing **triggering factors**. Regular follow-ups and better control of diabetes can reduce the risk of DKA.
-
----
-
-This summarized algorithm covers the key diagnostic steps, management, potential pitfalls, and complications, ensuring appropriate early intervention in the treatment of DKA.
