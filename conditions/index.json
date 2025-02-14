@@ -187,5 +187,12 @@
     "title": "Diabetic Ketoacidosis (DKA)",
     "description": "In acute diabetic ketoacidosis, the body cannot use glucose effectively due to a lack of insulin, so pushing the body into a starvation-like state where ketoacidosis is the only mechanism of energy production.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/diabetic_ketoacidosis_(dka).md"
+  },
+  {
+    "version": 0,
+    "key": "hypoglycemia",
+    "title": "Hypoglycemia",
+    "description": "Mentions key items in hypoglycemia management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hypoglycemia.md"
   }
 ]
