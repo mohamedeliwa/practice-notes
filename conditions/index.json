@@ -194,5 +194,19 @@
     "title": "Hypoglycemia",
     "description": "Mentions key items in hypoglycemia management.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hypoglycemia.md"
+  },
+  {
+    "version": 0,
+    "key": "hyperglycemic_hyperosmolar_state_(hhs)",
+    "title": "Hyperglycemic hyperosmolar state (HHS)",
+    "description": "Mentions key items in Hyperglycemic hyperosmolar state (HHS) management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hyperglycemic_hyperosmolar_state_(hhs).md"
+  },
+  {
+    "version": 0,
+    "key": "lactic_acidosis",
+    "title": "Lactic acidosis",
+    "description": "A rare but serious complication of DM with metformin use or septicemia.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/lactic_acidosis.md"
   }
 ]

@@ -8,5 +8,7 @@
 - [x] dka article
   - [x] review the text of dka from the book and match it against mamangement algorithm written in the markdown file
   - [x] review pitfalls and elaborate them more if they aren't
-- [x] hypoglycemia 
-- [ ] Hyperglycaemic hyperosmolar state (HHS) article `in progress..`
+- [x] hypoglycemia
+- [x] Hyperglycaemic hyperosmolar state (HHS) article
+- [x] lactic acidosis 
+- [ ] Myxoedema coma `in progress...`
