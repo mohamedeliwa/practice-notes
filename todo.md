@@ -1,0 +1,6 @@
+- [x] review and modify status epilepticus article
+- [x] write head injury article
+- [ ] review head injury article
+  - [x] cervical spine injury, low risk features
+  - [x] review rearrange management algorithm 
+- [ ] review and rewrite increased ICP article `in progress...`

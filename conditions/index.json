@@ -138,5 +138,40 @@
     "title": "Acute upper gastrointestinal bleeding",
     "description": "Mentions key items in Acute upper gastrointestinal bleeding management.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/acute_upper_gastrointestinal_bleeding.md"
+  },
+  {
+    "version": 0,
+    "key": "meningitis",
+    "title": "Meningitis",
+    "description": "Mentions key items in suspected bacterial meningitis and meningococcal sepsis.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/meningitis.md"
+  },
+  {
+    "version": 0,
+    "key": "encephalitis",
+    "title": "Encephalitis",
+    "description": "Suspect encephalitis whenever odd behavior, reduced consciousness, focal neurology, or seizures occur after an infectious prodrome (fever, rash, lymphadenopathy, cold sores, conjunctivitis, or meningeal signs).",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/encephalitis.md"
+  },
+  {
+    "version": 0,
+    "key": "cerebral_abscess",
+    "title": "Cerebral abscess",
+    "description": "Suspect this in any patient with increased ICP, especially if there is fever or increased TLC. It may follow ear, sinus, dental, or periodontal infection; skull fracture; congenital heart disease; endocarditis; bronchiectasis. It may also occur in the absence of systemic signs of inflammation.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/cerebral_abscess.md"
+  },
+  {
+    "version": 0,
+    "key": "status_epilepticus",
+    "title": "Status Epilepticus",
+    "description": "Seizures lasting for more than 30 minutes or repeated seizures without regaining consciousness between them.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/status_epilepticus.md"
+  },
+  {
+    "version": 0,
+    "key": "head_injury",
+    "title": "Head Injury",
+    "description": "Mentions key items in head injury management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/head_injury.md"
   }
 ]
