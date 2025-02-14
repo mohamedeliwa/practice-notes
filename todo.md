@@ -7,4 +7,4 @@
   - [x] review management
 - [ ] dka article
   - [x] review the text of dka from the book and match it against mamangement algorithm written in the markdown file
-  - [ ] review pitfalls and elaborate them more if they aren't `in progress...`
+  - [x] review pitfalls and elaborate them more if they aren't
