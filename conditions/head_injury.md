@@ -18,32 +18,36 @@ Retinal vein pulsation at `fundoscopy` helps exclude increased ICP.
 
 ## Management
 
+Write full notes,  Record times
+
 1. **Initial Priority:**
 	
 	- <mark> Stabilization of airway, breathing, and circulation </mark>(ABC) remains the 1st priority. 
-	- Oxygen if sat < 92%
-	- Intubate and hyperventilate if necessary
+	- `Oxygen` if sat < 92%
+	- `Intubate` and hyperventilate if necessary
 	- `Immobilize neck` until injury to cervical spine excluded
 	- `Treat for shock` if required, stop bleeding and support circulation
-	- Treat seizures with `lorazepam` and/or `phenytoin` (see status epilepticus article)
+	- `Treat seizures` with `lorazepam` and/or `phenytoin` (see status epilepticus article)
 	- Assess level of consciousness (GCS)
-	- <mark> If GCS ≤8 </mark> then seek urgent anesthetic and ICU help to protect airway. 
-	- Write full notes,  Record times
-	- Involve `neurosurgeons` early, especially if reduced GCS, or if increased ICP suspected
-	- Rapid examination survey
-	- Record `pulse`, `BP`, `T°`, `respirations`, and `pupils` every 15min.
+	- <mark> If GCS ≤8 </mark> then involve ICU to manage airway. 
 	- Assess `anterograde amnesia` (loss from the time of injury, i.e. post-traumatic) and `retrograde amnesia` (for events prior to injury)—extent of retrograde loss correlates with severity of injury, and never occurs without anterograde amnesia.
-	- Do  blood `investigations`
-	- `CNS examination`
-	- `Evaluate lacerations` of face or scalp
+	- Rapid examination survey
+	- Do `investigations` (see above)
+	- Record `pulse`, `BP`, `T°`, `respirations`, and `pupils` every 15min.
+	- `CNS examination` and `Brief History`
+	- `Evaluate lacerations` of face or scalp (skull/facial fracture?) 
 	- Check for `CSF leak` from nose or ear or any `blood` behind the ear drum
 		- if either is present, suspect basilar skull fracture
-		- Do `CT` 
+		- Do `CT`
 		- Give `tetanus toxoid`
 		- Refer to `neurosurgeons` urgently
 	- Palpate the neck posteriorly for tenderness and deformity,
-	- If detected, or if the patient has other indicators for neck imaging, immobilize the neck and get cervical spine X-ray or CT neck (see below)
-	- Radiology: As indicated: CT of head/neck (see below) Consider need for trauma series (eg CT chest/abdo/pelvis)
+		- If detected, or if the patient has other indicators for neck imaging
+		- `Immobilize the neck` 
+		- Get cervical spine `X-ray` or `CT` neck (see below)
+	- Radiology: As indicated: CT of head/neck (see below) 
+	- Consider need for trauma series (e.g. CT chest/abdo/pelvis)
+	- Involve `neurosurgeons` early, especially if reduced GCS, or if increased ICP suspected
 	- **Positioning**: Semi-prone if no spinal injury, with attention to airway and bladder care.
 	
 2. **CT Head Scanning Criteria:**
@@ -86,7 +90,7 @@ Retinal vein pulsation at `fundoscopy` helps exclude increased ICP.
 
 5. **Transfer and Neurosurgical Consultation:**
     
-    - Discuss cases with significant CT abnormalities, persistent low GCS, deteriorating GCS, or other complications.
-    - Ensure skilled medical escort and consider intubation before transfer if needed.
+    - Discuss cases with significant CT abnormalities, persistent GCS ≤ 8, deteriorating GCS (especially motor component), or persistent confusion, progressive focal neurology, seizure without full recovery, penetrating injuries, or CSF leak.
+    - Ensure skilled medical escort and consider `intubation` before transfer if needed.
 
 ---
