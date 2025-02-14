@@ -1,0 +1,2 @@
+# Hyperglycemic hyperosmolar state (HHS)
+
