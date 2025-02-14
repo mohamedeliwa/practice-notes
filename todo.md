@@ -3,4 +3,5 @@
 - [ ] review head injury article
   - [x] cervical spine injury, low risk features
   - [x] review rearrange management algorithm 
-- [ ] review and rewrite increased ICP article `in progress...`
+- [ ] review and rewrite increased ICP article
+    - [ ] review management `in progress...`
