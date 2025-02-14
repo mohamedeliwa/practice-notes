@@ -5,4 +5,5 @@
   - [x] review rearrange management algorithm 
 - [x] review and rewrite increased ICP article
     - [x] review management 
-- [ ] dka article `in progress...`
+- [ ] dka article 
+  - [ ] review the text of dka from the book and match it against mamangement algorithm written in the markdown file `in progress...`

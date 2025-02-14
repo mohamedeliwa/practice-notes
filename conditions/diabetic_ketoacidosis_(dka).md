@@ -9,54 +9,73 @@ This results in **hyperglycemia**, **ketoacidosis**, and **dehydration**, which 
 
 ---
 
-### **Diagnosis Criteria:**
+## Diagnosis Criteria
 
-1. **Acidaemia:** Venous blood pH <7.3 or **HCO3-** < 15.0 mmol/L.
-2. **Hyperglycemia:** Blood glucose >11.0 mmol/L or known DM.
-3. **Ketonaemia:** Blood ketones ≥3.0 mmol/L or significant ketonuria (more than 2+ on dipstick).
+1. **Acidemia:** Venous blood `pH <7.3` or `HCO3¯ < 15.0 mmol/L`.
+2. **Hyperglycemia:** Blood glucose >198mg/dL or `known DM`.
+3. **Ketonemia:** Blood `ketones ≥3.0 mmol/L` or significant `ketonuria` (more than 2+ on dipstick).
 
-**Tests to Perform:**
+## Investigations
 
-- **ECG**, **CXR**
-- **Urine tests:** Dipstick, MSU (urine culture)
-- **Blood tests:**
-    - Capillary and lab glucose
-    - Ketones
-    - pH (venous blood, ABG if GCS or hypoxia)
-    - U&E, HCO3-, osmolality, FBC, blood culture
+- `ECG` 
+- `CXR`
+- `Urine Dipstick` 
+- Midstream `Urine culture`
+- `Random Blood glucose`
+- `Lab Glucose`
+- `Ketones`
+- `pH` (use venous blood; ABG only if ↓ GCS or hypoxia)
+- `CBC`
+- `Blood culture`
+- `Urea` & `Creatinine`
+- `Electrolytes`
+- `HCO3¯`
+- `CRP`
+- `Osmolality`
 
----
-
-### **Severe DKA (Consider HDU/ICU Transfer):**
-
-- **Blood ketones >6 mmol/L**
-- **O2 sats <92%** on air
-- **Venous bicarbonate <5 mmol/L**
-- **Venous/arterial pH <7.0**
-- **Systolic BP <90 mmHg**
-- **K <3.5 mmol/L**
-- **Pulse >100 or <60 bpm**
-- **GCS <12**
 
 ---
 
-### **Management Algorithm:**
+## Severe DKA (Consider ICU)
 
-4. **Volume Replacement:**
-    
-    - Initially, **fluid resuscitation** to correct dehydration.
-5. **Correct Metabolic Defects:**
-    
-    - **Insulin infusion** to reduce blood glucose and ketones.
-    - Start with **0.1 U/kg/hr** of regular insulin IV and adjust as needed.
-    - When glucose drops to **<15 mmol/L**, add **glucose 10% IV** to maintain blood glucose at **6-10 mmol/L**.
-6. **Electrolyte Monitoring and Replacement:**
-    
-    - **Potassium (K):** Be cautious of hypokalemia. If K <3.5 mmol/L, hold insulin and give potassium replacement.
-    - **Sodium (Na):** Watch for hyponatremia and correct as needed. Corrected Na+ = Na+ + 2.4 * [(glucose - 5.5) / 5.5].
-7. **Monitor pH and Ketones:**
-    
-    - Continue insulin until blood ketones <0.6 mmol/L and pH >7.3.
+If one of the following features is present, consider ICU for monitoring and central venous access.
+
+- Blood `ketones >6 mmol/L`
+- `O2 sats <92%` on air (assuming no respiratory disease).
+- Venous `HCO3¯ <5 mmol/L`
+- Venous/arterial `pH <7.0`
+- Systolic `BP <90 mmHg`
+- `K⁺ <3.5 mmol/L` on admission.
+- `Pulse >100` or `<60 bpm`
+- `GCS <12`
+- `Anion gap` above 16
+
+---
+
+## Management
+
+Replace volume then correct metabolic defects
+
+1. `ABC`
+2. `2 large-bore cannulae`
+3. `0.9% saline` 1L over 1h (if systolic BP <90mmHg then give 500mL bolus over 15mins and reassess—if systolic BP still <90mmHg then give further 500mL bolus; if BP remains <90mmHg then involve ICU)
+4. Takes tests (see above)
+5. `Insulin` 50 units + 50mL 0.9% saline, IVI at rate 0.1 unit/kg/h
+	- Continue patient’s regular `long-acting insulin` at usual doses and times
+	- Consider initiating `long-acting insulin` in newly diagnosed T1DM
+	-  Aim for a fall in blood **ketones of 0.5mmol/L/h**, or a rise in venous **bicarbonate of 3mmol/L/h** with a fall in **glucose of 3mmol/L/h**.
+	- If not achieving this, increase insulin infusion by 1 unit/h until target rates achieved
+6. Check `random blood glucose` and `ketones` hourly
+7. Check `VBG` (pH, HCO3¯, K⁺) at 2h, 4h, 8h, 12h, and 24h (or more frequent)
+8. `Continue fluids`
+9. Assess need for `K⁺` (see below)
+10. Consider `catheter` if not passed urine by 1h (for urine output 0.5mL/kg/h.)
+11. Consider `NG` tube if vomiting or drowsy
+12. Start all patients on `LMWH`
+13. <mark>Avoid hypoglycaemia! </mark> (When glucose <14mmol/L start 10% glucose at 125mL/h to run alongside saline and prevent hypoglycemia)
+14. Continue fixed-rate `insulin` until ketones <0 . 6mmol/L, venous pH >7.3, and venous bicarb >15mmol/L
+15. Do not rely on urinary ketones to indicate resolution (they stay positive after DKA resolved)
+16. Find and treat infection/cause for DKA
 
 ---
 
