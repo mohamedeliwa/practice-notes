@@ -229,5 +229,12 @@
     "title": "Addisonian crisis",
     "description": "Patients may present in shock, often (but not always) in a patient with known Addison’s, or someone on long-term steroids who has forgotten their tablets. Remember bilateral adrenal hemorrhage (e.g. meningococcemia) as a cause. An alternative presentation is with hypoglycemia",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/addisonian_crisis.md"
+  },
+  {
+    "version": 0,
+    "key": "hypopituitary_coma",
+    "title": "Hypopituitary coma",
+    "description": "Think of decompensated chronic hypophyseal failure whenever hypothermia, refractory hypotension ± septic signs without fever occur with short stature or loss of axillary/pubic hair ± gonadal atrophy.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hypopituitary_coma.md"
   }
 ]
