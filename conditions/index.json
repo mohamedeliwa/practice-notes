@@ -222,5 +222,12 @@
     "title": "Hyperthyroid crisis (thyrotoxic storm)",
     "description": "Mentions key items in Hyperthyroid crisis (thyrotoxic storm) management.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hyperthyroid_crisis_(thyrotoxic_storm).md"
+  },
+  {
+    "version": 0,
+    "key": "addisonian_crisis",
+    "title": "Addisonian crisis",
+    "description": "Patients may present in shock, often (but not always) in a patient with known Addison’s, or someone on long-term steroids who has forgotten their tablets. Remember bilateral adrenal hemorrhage (e.g. meningococcemia) as a cause. An alternative presentation is with hypoglycemia",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/addisonian_crisis.md"
   }
 ]
