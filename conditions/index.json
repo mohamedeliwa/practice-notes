@@ -215,5 +215,12 @@
     "title": "Myxedema coma",
     "description": "The ultimate hypothyroid state before death.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/myxoedema_coma.md"
+  },
+  {
+    "version": 0,
+    "key": "hyperthyroid_crisis_(thyrotoxic_storm)",
+    "title": "Hyperthyroid crisis (thyrotoxic storm)",
+    "description": "Mentions key items in Hyperthyroid crisis (thyrotoxic storm) management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hyperthyroid_crisis_(thyrotoxic_storm).md"
   }
 ]
