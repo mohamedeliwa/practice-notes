@@ -14,4 +14,5 @@
 - [x] Myxoedema coma 
 - [x] Hyperthyroid crisis (thyrotoxic storm)
 - [x] Hypopituitary coma  
-- [ ] Phaeochromocytoma emergencies `in progress...`
+- [x] Phaeochromocytoma emergencies 
+- [ ] Acute poisoning in general `in progress...`

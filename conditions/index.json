@@ -236,5 +236,12 @@
     "title": "Hypopituitary coma",
     "description": "Think of decompensated chronic hypophyseal failure whenever hypothermia, refractory hypotension ± septic signs without fever occur with short stature or loss of axillary/pubic hair ± gonadal atrophy.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hypopituitary_coma.md"
+  },
+  {
+    "version": 0,
+    "key": "pheochromocytoma_emergencies",
+    "title": "Pheochromocytoma emergencies",
+    "description": "Patients with pheochromocytoma may have had undiagnosed symptoms for some time, but stress, abdominal palpation, parturition, general anaesthetic, or contrast media used in imaging can cause acute hypertensive crises.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pheochromocytoma_emergencies.md"
   }
 ]
