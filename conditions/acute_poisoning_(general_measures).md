@@ -1,0 +1,3 @@
+
+# Acute poisoning (general measures)
+
