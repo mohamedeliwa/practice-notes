@@ -13,4 +13,5 @@
 - [x] lactic acidosis 
 - [x] Myxoedema coma 
 - [x] Hyperthyroid crisis (thyrotoxic storm)
-- [ ] Hypopituitary coma  `in progress...`
+- [x] Hypopituitary coma  
+- [ ] Phaeochromocytoma emergencies `in progress...`
