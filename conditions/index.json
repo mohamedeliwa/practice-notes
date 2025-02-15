@@ -208,5 +208,12 @@
     "title": "Lactic acidosis",
     "description": "A rare but serious complication of DM with metformin use or septicemia.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/lactic_acidosis.md"
+  },
+  {
+    "version": 0,
+    "key": "myxoedema_coma",
+    "title": "Myxedema coma",
+    "description": "The ultimate hypothyroid state before death.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/myxoedema_coma.md"
   }
 ]
