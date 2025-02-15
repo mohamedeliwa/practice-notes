@@ -2,23 +2,28 @@
 
 The ultimate hypothyroid state before death.
 
-Signs and symptoms: Looks hypothyroid (p220, p221, fi g 5.16); often >65yrs; hypothermia;
-hyporefl exia; glucose; bradycardia; coma; seizures. May have had radioiodine,
-thyroidectomy, or pituitary surgery (signs of hypopituitarism, p232). Psychosis (myxoedema
-madness) may precede coma. Precipitants: infection, MI, stroke, or trauma.
-Examination: Goitre; cyanosis; BP (cardiogenic); heart failure; signs of precipitants.
-Treatment: Preferably on ICU.
-• Blood for: T3, T4, TSH, FBC, U&E (often Na+), cultures, cortisol, glucose.
-• ABG for PaO2. High-fl ow O2 if cyanosed. Ventilation may be needed.
-• Correct any hypoglycaemia.
-• Give T3 (liothyronine) 5–20mcg/12h IV slowly. Be cautious: you may precipitate manifestations
-of ischaemic heart disease. Alternative regimens involve levothyroxine.
-• Give hydrocortisone 100mg/8h IV—vital if pituitary hypothyroidism is suspected (ie
-no goitre, no previous radioiodine, and no previous thyroid surgery).
-• If infection suspected, give antibiotic, eg co-amoxiclav 1.2g/8h IV.
-• Caution with fl uid, rehydrate as needed but watch for cardiac dysfunction; BP may
-not respond to fl uid and inotropes may be needed.
-• Active warming (blankets, fl uids) may be needed for hypothermia. Beware complications
-(hypoglycaemia, pancreatitis, arrhythmias). See p848.
-Further : T3 5–20mcg/4–12h IV until sustained improvement (~2–3d) then levothyroxine
-50mcg/24h PO. Hydrocortisone + IV fl uids as needed (hyponatraemia is dilutional).
+## Investigations
+
+- `T3`, `T4`, `TSH`
+- `CBC`
+- `Urea` & `Creatinine` 
+- `Electrolytes` (often ↓Na⁺), 
+- `Cultures`
+- `Bool Cortisol level` 
+- `Glucose`
+- `ABG` for PaO₂
+
+## Management : Preferably on ICU
+
+1. `High-flow O2` if cyanosed. 
+2. `Ventilation` may be needed.
+3. Correct any `hypoglycemia`.
+4. Give `T3` (`liothyronine`) 5–20mcg/12h IV slowly. Be cautious: you may precipitate manifestations of ischemic heart disease. Alternative regimens involve `levothyroxine`.
+5. Give `hydrocortisone` 100mg/8h IV—vital if pituitary hypothyroidism is suspected (i.e. no goitre, no previous radioiodine, and no previous thyroid surgery).
+6. If infection suspected, give `antibiotic`, e.g. `co-amoxiclav` 1.2g/8h IV.
+7. `Caution with fluid`, rehydrate as needed but watch for cardiac dysfunction; BP may not respond to fluid and `inotropes` may be needed.
+8. `Active warming` (blankets, fluids) may be needed for hypothermia. Beware complications (hypoglycemia, pancreatitis, arrhythmias).
+9. **Further ℞**:
+	1. `T3` 5–20mcg/4–12h IV until sustained improvement (~2–3d)
+	2. then `levothyroxine` 50mcg/24h oral. 
+	3. `Hydrocortisone` + IV fluids as needed (hyponatremia is dilutional).

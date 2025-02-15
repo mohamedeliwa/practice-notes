@@ -11,4 +11,5 @@
 - [x] hypoglycemia
 - [x] Hyperglycaemic hyperosmolar state (HHS) article
 - [x] lactic acidosis 
-- [ ] Myxoedema coma `in progress...`
+- [x] Myxoedema coma 
+- [ ] Hyperthyroid crisis (thyrotoxic storm) `in progress...`
