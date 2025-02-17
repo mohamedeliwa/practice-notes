@@ -2,8 +2,6 @@
 # **Acute poisoning**
 
 
-**Seek Expert Help**
-
 ## **Investigations**
 
 - `Glucose`
