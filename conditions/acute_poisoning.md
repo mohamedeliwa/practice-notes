@@ -113,4 +113,33 @@
 
 **Carbon monoxide**
 
-- 
+1. <mark>Remove the source</mark>
+2. `100% O₂` until COHb <10%
+3. Metabolic acidosis usually responds to correction of hypoxia.
+4. If severe, anticipate cerebral oedema and give mannitol IVI
+5. Confirm diagnosis with `ABG` quickly as levels may soon return to normal
+	- which will show low SaO₂ and high COHb (normal <5%).
+6. SpO₂ from a pulse oximeter may be normal
+7. Monitor ECG
+8. consider hyperbaric O₂ If:
+	-  COHb >20%, 
+	- patient has neurological or psychological features, or cardiovascular impairment, fails to respond to treatment, or is pregnant
+
+**Digoxin**
+
+1. If serious arrhythmias are present
+2. Correct `hypokalaemia` 
+3. Inactivate with digoxin-specific antibody fragments (DigiFab/Digibind), If load or level is unknown, give 20 vials (800mg)—adult or child >20kg.
+
+**Iron**
+
+1. `Desferrioxamine` 15mg/kg/h IVI; max 80mg/kg/d. 
+2.  Gastric lavage if iron ingestion <1h, Consider whole-bowel irrigation
+
+**Oral anticoagulants**
+
+1. If major bleed, give `vitamin K` 5mg slow IV and `prothrombin complex concentrate` 50U/kg IV (or if unavailable, `fresh frozen plasma` 15mL/kg IVI).
+
+**Opiates**
+
+1. 

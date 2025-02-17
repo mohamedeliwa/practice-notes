@@ -16,4 +16,4 @@
 - [x] Hypopituitary coma
 - [x] Phaeochromocytoma emergencies
 - [ ] Acute poisoning in general
-  - [ ] carbon monoxide `in progress...`
+  - [ ] opitates `in progress...`
