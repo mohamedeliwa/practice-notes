@@ -87,3 +87,4 @@
 - May be necessary for poisoning from `ethylene glycol`, `lithium`, `methanol`, `phenobarbital`, `salicylates`, and `sodium valproate`.
 
 
+## Some specific antidotes
