@@ -1,6 +1,9 @@
 
 # **Acute poisoning**
 
+
+**Seek Expert Help**
+
 ## **Investigations**
 
 - `Glucose`
@@ -124,22 +127,91 @@
 8. consider hyperbaric O₂ If:
 	-  COHb >20%, 
 	- patient has neurological or psychological features, or cardiovascular impairment, fails to respond to treatment, or is pregnant
+9. Get expert help.
 
 **Digoxin**
 
 1. If serious arrhythmias are present
 2. Correct `hypokalaemia` 
 3. Inactivate with digoxin-specific antibody fragments (DigiFab/Digibind), If load or level is unknown, give 20 vials (800mg)—adult or child >20kg.
+4. Get expert help.
 
 **Iron**
 
 1. `Desferrioxamine` 15mg/kg/h IVI; max 80mg/kg/d. 
 2.  Gastric lavage if iron ingestion <1h, Consider whole-bowel irrigation
+3. Get expert help.
 
 **Oral anticoagulants**
 
 1. If major bleed, give `vitamin K` 5mg slow IV and `prothrombin complex concentrate` 50U/kg IV (or if unavailable, `fresh frozen plasma` 15mL/kg IVI).
+2. Get expert help
 
 **Opiates**
 
-1. 
+1. Give `naloxone`, e.g. 0.4–2mg IV; 
+2. repeat every 2min until breathing is adequate (it has a short t½, so it may need to be given often or IM; max ~10mg). 
+3. Naloxone may precipitate features of opiate withdrawal—diarrhea and cramps, which will normally respond to `diphenoxylate` and `atropine` (e.g. co-phenotrope). 
+4. `Sedate` as needed. 
+5. High-dose opiate misusers may need `methadone` (e.g. 10–30mg/24h PO) to combat withdrawal.
+6. Get expert help
+
+**Phenothiazine poisoning (e.g. chlorpromazine.)**
+
+1. No specific antidote
+2. For Dystonia: try procyclidine, e.g. 5–10mg IM or IV.
+3. `Treat shock` by raising the legs (± plasma expander IVI, or inotropes if desperate).
+4. Restore body temperature
+5. `Monitor ECG`
+6. Use `lorazepam` IV for prolonged fits in the usual way
+7. Neuroleptic malignant syndrome: maybe treated by
+	- Cooling. 
+	- `Dantrolene` 1–2.5mg/kg IV (max 10mg/kg/day)
+	- `Bromocriptine` and `Amantadine` are alternatives
+8. Get expert help
+
+**Carbon tetrachloride poisoning**
+
+1. IV `acetylcysteine` may improve prognosis.
+2. Get expert help
+
+**Organophosphate insecticides**
+
+1. `Wear gloves`
+2. `Remove soiled clothes` 
+3. `Wash skin` 
+4. Take blood (`CBC` and `serum cholinesterase activity`). 
+5. Give `atropine` IV 2mg every 10min till full atropinization (skin dry, pulse >70, pupils dilated). 
+6. Up to 3d treatment may be needed. 
+7. Also give `pralidoxime` 30mg/kg IVI over 20min, then 8mg/kg/h, max 12g in 24h. 
+8. Even if fits are not occurring, `diazepam` 5–10mg IV slowly seems to help.
+9. Get expert help
+
+**Paraquat poisoning (Found in weed-killers.)**
+
+1.  Diagnose by urine test.
+2. Give `activated charcoal` at once (100g followed by a `laxative`, then 50g/3–4h).
+3. Get expert help. 
+4. Avoid O₂ early on (promotes lung damage).
+
+**Ecstasy poisoning (hallucinogenic substance)**
+
+1. There is no antidote and treatment is supportive.
+2. Management depends on clinical and lab findings, but may include:
+3. Administration of `activated charcoal` and monitoring of BP, ECG, and temperature for at least 12h (rapid cooling may be needed).
+4. Monitor urine output and Urea, Creatinine, & Electrolytes, Liver Function Test, CK, CBC, and coagulation. Metabolic acidosis may benefit from treatment with `bicarbonate`.
+5. Anxiety: `lorazepam` 1-2mg IV as a slow bolus into a large vein. Repeat doses may be administered until agitation is controlled.
+6. Narrow complex tachycardias in adults: consider `metoprolol` 5mg IV.
+7. Hypertension can be treated with `nifedipine` 5–10mg oral or `phentolamine` 2–5mg IV. Treat hypotension conventionally.
+8. Hyperthermia: attempt to cool, if rectal T° >39°C consider `dantrolene` 1mg/kg IV (may need repeating: discuss with your senior and a poisons unit). Hyperthermia with ecstasy is akin to serotonin syndrome, and propranolol, muscle relaxation, and ventilation may be needed.
+
+**Snakes (adders)**
+
+1. Anaphylaxis: (see anaphylaxis article).
+2. Tests: high WBCs, abnormal clotting; low platelets; Urea, Creatinine & Electrolytes; high urine RBC; high CK; low PaO2, ECG.
+3. `Avoid` active movement of affected limb (so use splints/slings).
+4. `Avoid` incisions and tourniquets
+5. Get help from local/national poisons service
+6. If antivenom indicated (IgG from venom-immunized sheep): e.g. 10mL IV over 15min (adults and children) of European Viper Antiserum—20mL if severe envenoming 
+7. have adrenaline to hand. 
+8. Monitor ECG.
