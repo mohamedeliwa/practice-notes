@@ -58,7 +58,7 @@ Replace volume then correct metabolic defects
 
 1. `ABC`
 2. `2 large-bore cannulae`
-3. `0.9% saline` 1L over 1h (if systolic BP <90mmHg then give 500mL bolus over 15mins and reassess—if systolic BP still <90mmHg then give further 500mL bolus; if BP remains <90mmHg then involve ICU)
+3. `0.9% saline` 1L over 1h (if systolic BP <90mmHg then give 500mL bolus over 15mins and reassess—if systolic BP still <90mmHg then give further 500mL bolus; if BP remains <90mmHg then involve ICU) (see below)
 4. Takes tests (see above)
 5. `Insulin` 50 units + 50mL 0.9% saline, IVI at rate 0.1 unit/kg/h
 	- Continue patient’s regular `long-acting insulin` at usual doses and times
@@ -92,3 +92,24 @@ Replace volume then correct metabolic defects
 - **Serum amylase** is often raised (up to ≈10) and non-specific abdominal pain is common, even in the absence of pancreatitis.
 
 ---
+
+> [!Note] Fluid replacement
+> 
+> 0.9% saline is the replacement fluid of choice. <br />
+> Typical fluid deficit is 100mL/kg, so for an average 70kg man = 7 litres. <br />
+> Give e.g. 1L in 1h (faster if systolic BP <90mmHg) then: 1L over 2h, 1L over 2h, 1L over 4h, 1L over 4 h, 1L over 8h. <br /> 
+> This regimen may not be appropriate for all: reassess frequently, especially if young, elderly, pregnant, or comorbidities. <br />
+> Bicarbonate may increase risk of cerebral oedema and is not recommended.
+
+> [!Note] Potassium replacement
+> 
+> Typical deficit = 3–5mmol/kg, plasma K⁺ falls with treatment as K⁺ enters cells. <br />
+> Don’t add K⁺ to the 1st bag. Thereafter add K+ according to most recent VBG result. <br />
+> 
+
+| Serum K+ (mmol/L) | Amount of KCl to add per litre of IV fluid |
+| ----------------- | ------------------------------------------ |
+| >5.5              | Nil                                        |
+| 3.5–5.5           | 40mmol                                     |
+| <3.5              | Seek help from HDU/ICU for higher doses    |
+> Potassium replacement in DKA

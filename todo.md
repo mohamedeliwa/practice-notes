@@ -5,6 +5,15 @@
   - [x] review rearrange management algorithm
 - [x] review and rewrite increased ICP article
   - [x] review management
-- [ ] dka article
+- [x] dka article
   - [x] review the text of dka from the book and match it against mamangement algorithm written in the markdown file
   - [x] review pitfalls and elaborate them more if they aren't
+- [x] hypoglycemia
+- [x] Hyperglycaemic hyperosmolar state (HHS) article
+- [x] lactic acidosis
+- [x] Myxoedema coma
+- [x] Hyperthyroid crisis (thyrotoxic storm)
+- [x] Hypopituitary coma
+- [x] Phaeochromocytoma emergencies
+- [ ] Acute poisoning in general
+  - [ ] opitates `in progress...`
