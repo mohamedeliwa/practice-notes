@@ -256,6 +256,13 @@
     "key": "paracetamol_poisoning",
     "title": "Paracetamol poisoning",
     "description": "12g (=24 tablets) or 150mg/kg in adults may be fatal, If the patient is malnourished then 75mg/kg can kill.",
-    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/acute_poisoning.md"
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/paracetamol_poisoning.md"
+  },
+  {
+    "version": 0,
+    "key": "salicylate_poisoning",
+    "title": "Salicylate poisoning",
+    "description": "Uncoupling of oxidative phosphorylation leads to anaerobic metabolism and the production of lactate and heat, Effects are dose related and potentially fatal.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/salicylate_poisoning.md"
   }
 ]

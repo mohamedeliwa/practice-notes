@@ -17,4 +17,5 @@
 - [x] Phaeochromocytoma emergencies
 - [x] Acute poisoning in general
 - [x] Paracetamol poisoning
-- [ ] Salicylate poisoning `in progress...`
+- [x] Salicylate poisoning
+- [ ] Burns `in progress...`
