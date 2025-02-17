@@ -15,5 +15,6 @@
 - [x] Hyperthyroid crisis (thyrotoxic storm)
 - [x] Hypopituitary coma
 - [x] Phaeochromocytoma emergencies
-- [ ] Acute poisoning in general
-  - [ ] opitates `in progress...`
+- [x] Acute poisoning in general
+- [x] Paracetamol poisoning
+- [ ] Salicylate poisoning `in progress...`

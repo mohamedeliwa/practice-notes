@@ -243,5 +243,19 @@
     "title": "Pheochromocytoma emergencies",
     "description": "Patients with pheochromocytoma may have had undiagnosed symptoms for some time, but stress, abdominal palpation, parturition, general anaesthetic, or contrast media used in imaging can cause acute hypertensive crises.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pheochromocytoma_emergencies.md"
+  },
+  {
+    "version": 0,
+    "key": "acute_poisoning",
+    "title": "Acute poisoning",
+    "description": "Mentions key items in Acute poisoning management and Some specific poisons and their antidotes.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/acute_poisoning.md"
+  },
+  {
+    "version": 0,
+    "key": "paracetamol_poisoning",
+    "title": "Paracetamol poisoning",
+    "description": "12g (=24 tablets) or 150mg/kg in adults may be fatal, If the patient is malnourished then 75mg/kg can kill.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/acute_poisoning.md"
   }
 ]
