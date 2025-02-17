@@ -10,9 +10,10 @@
   - [x] review pitfalls and elaborate them more if they aren't
 - [x] hypoglycemia
 - [x] Hyperglycaemic hyperosmolar state (HHS) article
-- [x] lactic acidosis 
-- [x] Myxoedema coma 
+- [x] lactic acidosis
+- [x] Myxoedema coma
 - [x] Hyperthyroid crisis (thyrotoxic storm)
-- [x] Hypopituitary coma  
-- [x] Phaeochromocytoma emergencies 
-- [ ] Acute poisoning in general `in progress...`
+- [x] Hypopituitary coma
+- [x] Phaeochromocytoma emergencies
+- [ ] Acute poisoning in general
+  - [ ] carbon monoxide `in progress...`

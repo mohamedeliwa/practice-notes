@@ -1,7 +1,7 @@
 
-# Acute poisoning
+# **Acute poisoning**
 
-## Investigations
+## **Investigations**
 
 - `Glucose`
 - `Urea` & `Creatinine` 
@@ -15,7 +15,7 @@
 - `Urine/serum toxicology`
 - Speciﬁc assays as appropriate
 
-## Emergency Management (general measures)
+## **Emergency Management** (general measures)
 
 1. `ABC`
 2. `Clear airway`
@@ -37,7 +37,7 @@
 15. Consider `naloxone` if ↓conscious level and pin-point pupils 
 16. Consider Vitamin B complex, vitamin C, and glucose if drowsy/confused
 
-## Speciﬁc Points
+## **Speciﬁc Points**
 
 **Plasma Toxicology**: 
 - For all unconscious patients, measure `paracetamol`, `aspirin`, and `blood glucose` levels.
@@ -87,7 +87,7 @@
 - May be necessary for poisoning from `ethylene glycol`, `lithium`, `methanol`, `phenobarbital`, `salicylates`, and `sodium valproate`.
 
 
-## Some specific antidotes
+## **Some specific poisons and their antidotes**
 
 **Benzodiazepines** 
 - `Flumazenil` (for respiratory arrest) 200mcg over 15s; then 100mcg at 60s intervals if needed. 
