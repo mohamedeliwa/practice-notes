@@ -88,3 +88,29 @@
 
 
 ## Some specific antidotes
+
+**Benzodiazepines** 
+- `Flumazenil` (for respiratory arrest) 200mcg over 15s; then 100mcg at 60s intervals if needed. 
+- Usual dose range: 300–600mcg IV over 3–6min (up to 1mg; 2mg if on ICU). 
+- May provoke fits. Use only after expert advice.
+
+**Beta-blockers**
+- Try `atropine` up to 3mg IV. 
+- If atropine fails
+- Give `glucagon` 2–10mg IV bolus + 5% glucose  then infusion of 50mcg/kg/h. 
+- Also consider including `phosphodiesterase inhibitor` infusions (e.g. enoximone 5–20mcg/kg/min). 
+- If unresponsive, consider `pacing`.
+
+**Cyanide**
+
+- `100% O₂`
+- `GI decontamination`
+- If mild, supportive care is usually sufficient. 
+- If moderate/severe then specific treatment to bind cyanide is required. 
+- Give `sodium nitrite`/`sodium thiosulfate`, or `dicobalt edetate` 300mg IV over 1min, then 50mL 50% `glucose` IV (repeat once if no response after a minute); 
+- or `hydroxocobalamin`  5g over 15min repeated once if required. 
+- Get expert help.
+
+**Carbon monoxide**
+
+- 
