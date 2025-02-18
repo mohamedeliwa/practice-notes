@@ -35,6 +35,9 @@ secondary to impaired consciousness (e.g. following excess alcohol or drug overd
 7. `Cardiac monitor` is essential (AF, VF, and VT can occur at any time during rewarming or on stimulation)
 8. Consider `antibiotics` for the prevention of pneumonia. Give these routinely in patients over 65yrs with T° <32°C
 9. Consider `urinary catheter` (to monitor renal function)
+10. In case of arrhythmias (if there is a cardiac arrest continue resuscitating until T° >33°C, as cold brains are less damaged by hypoxia)
+
+
 
 > [!Note] **Sudden Hypothermia**
 > 
