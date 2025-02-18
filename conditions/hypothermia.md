@@ -36,13 +36,25 @@ secondary to impaired consciousness (e.g. following excess alcohol or drug overd
 8. Consider `antibiotics` for the prevention of pneumonia. Give these routinely in patients over 65yrs with T° <32°C
 9. Consider `urinary catheter` (to monitor renal function)
 10. In case of arrhythmias (if there is a cardiac arrest continue resuscitating until T° >33°C, as cold brains are less damaged by hypoxia)
+11. <mark> Do not declare anybody dead until they are warm and dead. </mark> (see below, Human Records)
 
 
 
-> [!Note] **Sudden Hypothermia**
+> [!Note] Sudden Hypothermia
 > 
 >  In **sudden hypothermia** from immersion or profound hypothermia with cardiovascular Instability/cardiac arrest, the temperature needs to be raised rapidly. 
 >  
 >  Options include warmed fluid lavage (intravesical, nasogastric, intrapleural, intraperitoneal) and intravascular warming (cardiopulmonary bypass, dialysis). 
 >  
 >  In the event of cardiac arrest, defibrillation is usually unsuccessful if T° <30°C (consider amiodarone, bretylium). Resuscitation must continue until core T° >33°C.
+>  
+
+> [!Note] Human Records
+> 
+> Remember that death is a process not an event, and that in hypothermia, all processes are suspended: metabolism may slow to as much as 10% of baseline, drastically diminishing the oxygen requirements of all tissues.
+> 
+> 13 month old Canadian Erica Nordby came to life 2 hours after her heart stopped (core T°: 16°C). 
+> 
+>  Anna Bågenholm, a Swedish trainee orthopedic surgeon, became trapped under freezing water covered by a layer of ice for 80 minutes following a skiing accident, suffering a cardiac arrest (core T°: 13.7°C). After resuscitation and 20 days in intensive care, she regained consciousness, suffering no permanent brain damage. She is now a radiologist. > 
+> 
+
