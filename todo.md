@@ -18,4 +18,5 @@
 - [x] Acute poisoning in general
 - [x] Paracetamol poisoning
 - [x] Salicylate poisoning
-- [ ] Burns `in progress...`
+- [x] Burns
+- [ ] Hypothermia  `in progress...`

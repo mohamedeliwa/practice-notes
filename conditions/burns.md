@@ -62,3 +62,21 @@
 
 - **Partial thickness burns**, e.g. biological (pigskin, cadaveric skin), synthetic, and silver sulfadiazine cream alone or with cerium nitrate; it forms a leathery eschar which resists infection. 
 - **Major full-thickness burns** benefit from early tangential excision and split skin grafts as the burn is a major source of inflammatory cytokines and forms a rich medium for bacterial growth.
+
+
+## **Smoke inhalation**
+
+1. Consider if:
+	- History of exposure to fire and smoke in an enclosed space
+	- Hoarseness or change in voice
+	- Harsh cough
+	- Stridor
+	- Burns to face
+	- Singed nasal hairs
+	- Soot in saliva or sputum
+	- Inflamed oropharynx
+2. May be accompanied by `Free radicals`, `cyanide` compounds (generated, e.g. from burning plastics), and `carbon monoxide` (CO) (see acute poisoning article, for cyanide and CO poisoning)
+3. COHb levels do not correlate well with the severity of poisoning and partly reflect smoking status and urban life. Use `nomograms` to extrapolate peak levels.
+4. <mark> 100% O2 </mark> is given to elute both cyanide and CO. 
+5.  Involve ICU/anesthetists early if any signs of airway obstruction or respiratory failure:<mark> early intubation and ventilation may be useful. </mark>
+6. Enlist expert help in cyanide <mark> poisoning </mark> (see acute poisoning article)
