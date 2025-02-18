@@ -264,5 +264,19 @@
     "title": "Salicylate poisoning",
     "description": "Uncoupling of oxidative phosphorylation leads to anaerobic metabolism and the production of lactate and heat, Effects are dose related and potentially fatal.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/salicylate_poisoning.md"
+  },
+  {
+    "version": 0,
+    "key": "burns",
+    "title": "Burns",
+    "description": "The rule of nines: (arm: 9%; front of trunk 18%; head and neck 9%; leg 18%; back of trunk 18%; perineum 1%).",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/burns.md"
+  },
+  {
+    "version": 0,
+    "key": "hypothermia",
+    "title": "Hypothermia",
+    "description": "Most patients are elderly and do not complain of, or feel, cold, so they have not tried to warm up; In the young, hypothermia is usually from cold exposure",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hypothermia.md"
   }
 ]
