@@ -19,4 +19,4 @@
 - [x] Paracetamol poisoning
 - [x] Salicylate poisoning
 - [x] Burns
-- [ ] Hypothermia  `in progress...`
+- [x] Hypothermia
