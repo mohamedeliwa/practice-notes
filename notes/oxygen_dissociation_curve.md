@@ -28,7 +28,7 @@ The **oxygen dissociation curve** is a graph that shows the relationship between
 
   - ↑ CO₂ (Bohr effect)
   - ↑ Temperature
-  - ↑ 2,3-BPG (2,3-bisphosphoglycerate) [^1]
+  - ↑ 2,3-DPG (2,3-disphosphoglycerate) [^1]
   - ↓ pH (more acidic)
 
 - **Left shift** (↑ affinity for O₂, less release):
@@ -45,4 +45,4 @@ The **oxygen dissociation curve** is a graph that shows the relationship between
 - Helps match oxygen delivery to tissue needs.
 - Essential in understanding conditions like anemia, altitude adaptation, and respiratory diseases.
 
-[^1]: **2,3-Bisphosphoglycerate (2,3-BPG)** is a molecule produced in red blood cells during glycolysis. It binds to deoxygenated hemoglobin, reducing its affinity for oxygen and facilitating oxygen release to tissues. Increased levels of 2,3-BPG shift the oxygen dissociation curve to the right, which is especially important under conditions like high altitude, anemia, or hypoxia.
+[^1]: **2,3-Disphosphoglycerate (2,3-DPG)** is a molecule produced in red blood cells during glycolysis. It binds to deoxygenated hemoglobin, reducing its affinity for oxygen and facilitating oxygen release to tissues. Increased levels of 2,3-BPG shift the oxygen dissociation curve to the right, which is especially important under conditions like high altitude, anemia, or hypoxia.
