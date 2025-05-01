@@ -1,6 +1,8 @@
 # Oxygen Dissociation Curve
 
-The **oxygen dissociation curve** is a graph that shows the relationship between the **partial pressure of oxygen (pO₂)** and the **percentage saturation of hemoglobin with oxygen**.
+The **oxygen dissociation curve** is a graph that shows the relationship between the **partial pressure of oxygen (pO₂)** and the **percentage saturation of hemoglobin with oxygen**. It is not affected by hemoglobin concentration.
+
+<br />
 
 ![Oxygen Dissociation Curve](../assets/oxyhemoglobin_dissociation_curve.jpg)
 
@@ -36,7 +38,7 @@ The **oxygen dissociation curve** is a graph that shows the relationship between
   - ↓ Temperature
   - ↓ 2,3-BPG
   - ↑ pH (more basic)
-  - Fetal hemoglobin (HbF)
+  - Fetal hemoglobin (HbF), methemoglobin, carboxyhemoglobin
 
 ---
 
