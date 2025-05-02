@@ -20,5 +20,6 @@
 - [x] Salicylate poisoning
 - [x] Burns
 - [x] Hypothermia
-- [ ] chronic stable COPD (in conditions) (investigations (with images of x-rays radiopedia) and treatment) `in progress...`
-- [ ] COPD (notes)
+- [x] chronic stable COPD (in conditions) (investigations (with images of x-rays radiopedia) and treatment)
+- [x] COPD (notes)
+- [ ] `in progress...`
