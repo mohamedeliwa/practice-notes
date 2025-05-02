@@ -36,6 +36,15 @@ Have ↑ alveolar ventilation, a near `normal PaO2` and a `normal or low PaCO2`.
 
 Have ↓ alveolar ventilation, with a `low PaO2` and a `high PaCO2`. They are `cyanosed` but `not breathless` and may go on to develop `cor-pulmonale`. Their respiratory centres are relatively insensitive to CO2 and they rely on hypoxic drive to maintain respiratory effort — supplemental oxygen should be given with care.
 
+### The most common bacterial organisms that cause infective exacerbations of COPD are:
+
+- Haemophilus influenzae (most common cause)
+- Streptococcus pneumoniae
+- Moraxella catarrhalis
+
+Respiratory viruses account for around 30% of exacerbations, with the human rhinovirus being the most important pathogen
+
+
 ### Investigations
 
 - CBC: ↑ RBCs.
