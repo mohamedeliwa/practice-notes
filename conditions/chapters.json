@@ -1,6 +1,6 @@
 [
   {
-    "version": 0,
+    "version": 1,
     "title": "Conditions",
     "description": "a list of articles focusing on medical conditions management specially investigations and treatment",
     "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/index.json"

@@ -21,7 +21,8 @@
   - Adjust according to ABG, aim Pa O2 >8.0kPa with a rise in Pa CO2 <1.5kPa
   - Whenever you initiate or change oxygen therapy, do consider an `ABG within 1h`.
 - `IV hydrocortisone` 200mg and `oral prednisolone` 30mg one daily (continue for 7–14d)
-- `Amoxicillin` 500mg/8h orally, if evidence of infection
+- if evidence of infection (if sputum is purulent or there are clinical signs of pneumonia)
+- `Amoxicillin` 500mg/8h orally or (`Tetracycline` or `Clarithromycin`)
 - Chest `Physiotherapy`
 - If no response:
   - `IV aminophylline`: load with 250mg over 20min, then infuse at a rate of ~500mcg/kg/h (300mcg/kg/h if elderly), where kg is ideal body weight
