@@ -18,10 +18,10 @@
 - Screen for depression
 - `Diuretics` if Edema
 - Flu and pneumococcal `Vaccinations`
-- Start by short-acting β₂-antagonist (`SABA`) or short-acting muscarinic antagonist (`SAMA`)
+- Start by short-acting β₂-agonist (`SABA`) or short-acting muscarinic antagonist (`SAMA`)
 - If no optimal response but FEV₁ >50%
 
-  - Use Long-acting β₂-antagonist (`LABA`) or Long-acting muscarinic antagonist (`LAMA`)
+  - Use Long-acting β₂-agonist (`LABA`) or Long-acting muscarinic antagonist (`LAMA`)
   - If on `LABA` and no optimal response move to `LABA + inhaled corticosteroid` (ICS)
   - If no optimal response or was on `LAMA` then move to `LAMA plus LABA/ICS` combination inhaler
 
