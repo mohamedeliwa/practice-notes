@@ -18,7 +18,7 @@
 - `Salbutamol` 5mg/4h and `ipratropium` 500mcg/6h
 - Oxygen therapy if SaO₂ <88% or PaO₂ <7 kPa (≈ 52.5 mmHg):
   - Start at `24–28% O₂`, aim sats 88–92%
-  - Adjust according to ABG, aim Pa O₂ >8.0kPa (≈ 60.0 mmHg) with a rise in PaCO₂ <1.5kPa (≈ 11.25 mmHg)
+  - Adjust according to ABG, aim Pa O₂ >8.0kPa (≈ 60 mmHg) with a rise in PaCO₂ <1.5kPa (≈ 11.25 mmHg)
   - Whenever you initiate or change oxygen therapy, do consider an `ABG within 1h`.
 - `IV hydrocortisone` 200mg and `oral prednisolone` 30mg one daily (continue for 7–14d)
 - if evidence of infection (if sputum is purulent or there are clinical signs of pneumonia)

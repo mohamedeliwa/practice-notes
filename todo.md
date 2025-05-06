@@ -22,4 +22,5 @@
 - [x] Hypothermia
 - [x] chronic stable COPD (in conditions) (investigations (with images of x-rays radiopedia) and treatment)
 - [x] COPD (notes)
-- [ ] convert kpa values to mmgh in copd topics `in progress...`
+- [x] convert kpa values to mmgh in copd topics
+- [ ] `in progress...`
