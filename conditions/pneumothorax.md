@@ -28,7 +28,7 @@
 
 - If there is SOB or rim of air >2cm on CXR
 - `Chest drain`
-- If there is no SOB or rim of air 1–2cm on CXR
+- If there is no SOB and rim of air 1–2cm on CXR
 - `Aspiration`
 - If successful, admit for 24h observation and O2
 - If failed, `chest drain`
