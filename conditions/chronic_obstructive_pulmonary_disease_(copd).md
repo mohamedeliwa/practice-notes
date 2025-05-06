@@ -31,6 +31,6 @@
   - If no optimal response move to `LAMA plus LABA/ICS` combination inhaler
 
 - `Long-term O₂ therapy` if
-- Clinically stable non-smokers with PₐO₂ <7.3kPa—despite maximal treatment. These values should be stable on two occasions >3wks apart.
-- If PₐO₂ 7.3–8.0 and pulmonary hypertension (eg RVH; loud S2), or polycythaemia, or peripheral oedema, or nocturnal hypoxia
+- Clinically stable non-smokers with PₐO₂ <7.3 kPa (≈ 54.75 mmHg)—despite maximal treatment. These values should be stable on two occasions >3wks apart.
+- If PₐO₂ 7.3–8.0 kPa (≈ 54.75–60.00 mmHg) and pulmonary hypertension (eg RVH; loud S2), or polycythaemia, or peripheral oedema, or nocturnal hypoxia
 - O₂ can also be prescribed for terminally ill patients.
