@@ -24,4 +24,6 @@
 - [x] COPD (notes)
 - [x] convert kpa values to mmgh in copd topics
 - [x] write a topic for NIV
-- [ ] Q5 `in progress...`
+- [ ] divide topics into multiple chapters `in progress...`
+- [ ] replace the stage repo urls with the master one 
+- [ ] Q5
