@@ -24,6 +24,8 @@
 - [x] COPD (notes)
 - [x] convert kpa values to mmgh in copd topics
 - [x] write a topic for NIV
+- [x] replace the stage repo urls with the master one
 - [ ] divide topics into multiple chapters `in progress...`
-- [ ] replace the stage repo urls with the master one 
+  - [ ] remove emergency chapter and redistribute topics to their original chapters
+- [ ] test what happens to chapter that's already downloaded, but removed from the new version, would the app delete the local version of it or not ????
 - [ ] Q5
