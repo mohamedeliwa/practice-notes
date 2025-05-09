@@ -1,0 +1,58 @@
+[
+  {
+    "version": 0,
+    "key": "cardiogenic_shock",
+    "title": "Cardiogenic shock",
+    "description": "Cardiogenic shock is a state of inadequate tissue perfusion primarily due to cardiac dysfunction. It may occur suddenly, or after progressively worsening heart failure.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/cardiogenic_shock.md"
+  },
+  {
+    "version": 0,
+    "key": "cardiac_tamponade",
+    "title": "Cardiac tamponade",
+    "description": "Pericardial fluid accumulates, causing an increase in intrapericardial pressure, which prevents the heart from filling properly and ultimately stops its pumping function.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/cardiac_tamponade.md"
+  },
+  {
+    "version": 0,
+    "key": "acute_coronary_syndrome_with_st_elevation_(stemi)",
+    "title": "Acute coronary syndrome—with ST-elevation (STEMI)",
+    "description": "Mentions key items in Acute STEMI management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/acute_coronary_syndrome_with_st_elevation_(stemi).md"
+  },
+  {
+    "version": 0,
+    "key": "acute_coronary_syndrome_without_st_elevation_(non_stemi)",
+    "title": "Acute coronary syndrome—without ST-elevation (non STEMI)",
+    "description": "Mentions key items in Acute Non STEMI management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/acute_coronary_syndrome_without_st_elevation_(non_stemi).md"
+  },
+  {
+    "version": 0,
+    "key": "severe_pulmonary_oedema",
+    "title": "Severe pulmonary oedema",
+    "description": "Mentions key items in Acute Non STEMI management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/severe_pulmonary_oedema.md"
+  },
+  {
+    "version": 0,
+    "key": "broad_complex_tachycardia",
+    "title": "Broad complex tachycardia",
+    "description": "Ventricular tachycardia (VT) including torsade de pointes, SVT with aberrant conduction, e.g. AF or atrial flutter, with bundle branch block. Pre-excited tachycardias, e.g. AF, atrial flutter, or AV re-entry tachycardia, with underlying WPW.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/broad_complex_tachycardia.md"
+  },
+  {
+    "version": 0,
+    "key": "narrow_complex_tachycardia",
+    "title": "Narrow complex tachycardia",
+    "description": "Sinus tachycardia, Atrial fibrillation (AF), Atrial flutter, Atrial tachycardia, Multifocal atrial tachycardia, AV nodal re-entry tachycardia, AV re-entry tachycardia (e.g. WPW)",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/narrow_complex_tachycardia.md"
+  },
+  {
+    "version": 0,
+    "key": "bradycardia",
+    "title": "Bradycardia",
+    "description": "The immediate management tends to relate more to cause and adverse signs than to the underlying rhythm, which may be Sinus bradycardia, Heart block, AF with a slow ventricular response, Atrial flutter with a high-degree block, Junctional bradycardia",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/bradycardia.md"
+  }
+]

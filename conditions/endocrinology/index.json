@@ -1,0 +1,100 @@
+[
+  {
+    "version": 0,
+    "key": "diabetic_ketoacidosis_(dka)",
+    "title": "Diabetic Ketoacidosis (DKA)",
+    "description": "In acute diabetic ketoacidosis, the body cannot use glucose effectively due to a lack of insulin, so pushing the body into a starvation-like state where ketoacidosis is the only mechanism of energy production.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/diabetic_ketoacidosis_(dka).md"
+  },
+  {
+    "version": 0,
+    "key": "hypoglycemia",
+    "title": "Hypoglycemia",
+    "description": "Mentions key items in hypoglycemia management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hypoglycemia.md"
+  },
+  {
+    "version": 0,
+    "key": "hyperglycemic_hyperosmolar_state_(hhs)",
+    "title": "Hyperglycemic hyperosmolar state (HHS)",
+    "description": "Mentions key items in Hyperglycemic hyperosmolar state (HHS) management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hyperglycemic_hyperosmolar_state_(hhs).md"
+  },
+  {
+    "version": 0,
+    "key": "lactic_acidosis",
+    "title": "Lactic acidosis",
+    "description": "A rare but serious complication of DM with metformin use or septicemia.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/lactic_acidosis.md"
+  },
+  {
+    "version": 0,
+    "key": "myxoedema_coma",
+    "title": "Myxedema coma",
+    "description": "The ultimate hypothyroid state before death.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/myxoedema_coma.md"
+  },
+  {
+    "version": 0,
+    "key": "hyperthyroid_crisis_(thyrotoxic_storm)",
+    "title": "Hyperthyroid crisis (thyrotoxic storm)",
+    "description": "Mentions key items in Hyperthyroid crisis (thyrotoxic storm) management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hyperthyroid_crisis_(thyrotoxic_storm).md"
+  },
+  {
+    "version": 0,
+    "key": "addisonian_crisis",
+    "title": "Addisonian crisis",
+    "description": "Patients may present in shock, often (but not always) in a patient with known Addison’s, or someone on long-term steroids who has forgotten their tablets. Remember bilateral adrenal hemorrhage (e.g. meningococcemia) as a cause. An alternative presentation is with hypoglycemia",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/addisonian_crisis.md"
+  },
+  {
+    "version": 0,
+    "key": "hypopituitary_coma",
+    "title": "Hypopituitary coma",
+    "description": "Think of decompensated chronic hypophyseal failure whenever hypothermia, refractory hypotension ± septic signs without fever occur with short stature or loss of axillary/pubic hair ± gonadal atrophy.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hypopituitary_coma.md"
+  },
+  {
+    "version": 0,
+    "key": "pheochromocytoma_emergencies",
+    "title": "Pheochromocytoma emergencies",
+    "description": "Patients with pheochromocytoma may have had undiagnosed symptoms for some time, but stress, abdominal palpation, parturition, general anaesthetic, or contrast media used in imaging can cause acute hypertensive crises.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pheochromocytoma_emergencies.md"
+  },
+  {
+    "version": 0,
+    "key": "acute_poisoning",
+    "title": "Acute poisoning",
+    "description": "Mentions key items in Acute poisoning management and Some specific poisons and their antidotes.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/acute_poisoning.md"
+  },
+  {
+    "version": 0,
+    "key": "paracetamol_poisoning",
+    "title": "Paracetamol poisoning",
+    "description": "12g (=24 tablets) or 150mg/kg in adults may be fatal, If the patient is malnourished then 75mg/kg can kill.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/paracetamol_poisoning.md"
+  },
+  {
+    "version": 0,
+    "key": "salicylate_poisoning",
+    "title": "Salicylate poisoning",
+    "description": "Uncoupling of oxidative phosphorylation leads to anaerobic metabolism and the production of lactate and heat, Effects are dose related and potentially fatal.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/salicylate_poisoning.md"
+  },
+  {
+    "version": 0,
+    "key": "burns",
+    "title": "Burns",
+    "description": "The rule of nines: (arm: 9%; front of trunk 18%; head and neck 9%; leg 18%; back of trunk 18%; perineum 1%).",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/burns.md"
+  },
+  {
+    "version": 0,
+    "key": "hypothermia",
+    "title": "Hypothermia",
+    "description": "Most patients are elderly and do not complain of, or feel, cold, so they have not tried to warm up; In the young, hypothermia is usually from cold exposure",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hypothermia.md"
+  }
+]

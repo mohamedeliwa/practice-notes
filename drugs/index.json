@@ -1,0 +1,16 @@
+[
+  {
+    "version": 0,
+    "key": "salbutamol",
+    "title": "Salbutamol",
+    "description": "Short acting β₂-adrenergic agonist.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/drugs/salbutamol.md"
+  },
+  {
+    "version": 0,
+    "key": "salmeterol",
+    "title": "Salmeterol",
+    "description": "Long acting β₂-adrenergic agonist.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/drugs/salmeterol.md"
+  }
+]
