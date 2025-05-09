@@ -1,12 +1,12 @@
 [
   {
-    "version": 4,
+    "version": 0,
     "title": "Emergency",
     "description": "a list of articles focusing on medical conditions management specially investigations and treatment",
     "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/emergency/index.json"
   },
   {
-    "version": 4,
+    "version": 0,
     "title": "Cardiology",
     "description": "a list of articles focusing on medical conditions management specially investigations and treatment",
     "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/cardiology/index.json"
@@ -18,19 +18,19 @@
     "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pulmonology/index.json"
   },
   {
-    "version": 4,
+    "version": 0,
     "title": "GIT",
     "description": "a list of articles focusing on medical conditions management specially investigations and treatment",
     "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/git/index.json"
   },
   {
-    "version": 4,
+    "version": 0,
     "title": "Neurology",
     "description": "a list of articles focusing on medical conditions management specially investigations and treatment",
     "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/neurology/index.json"
   },
   {
-    "version": 4,
+    "version": 0,
     "title": "Endocrinology",
     "description": "a list of articles focusing on medical conditions management specially investigations and treatment",
     "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/endocrinology/index.json"
