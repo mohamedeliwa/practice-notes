@@ -3,18 +3,42 @@
     "version": 4,
     "title": "Emergency",
     "description": "a list of articles focusing on medical conditions management specially investigations and treatment",
-    "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/index.json"
+    "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/emergency/index.json"
+  },
+  {
+    "version": 4,
+    "title": "Cardiology",
+    "description": "a list of articles focusing on medical conditions management specially investigations and treatment",
+    "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/cardiology/index.json"
   },
   {
     "version": 0,
-    "title": "Respiratory",
+    "title": "Pulmonology",
     "description": "a list of articles focusing on Respiratory conditions management specially investigations and treatment",
-    "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/index_respiratory.json"
+    "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/pulmonology/index.json"
+  },
+  {
+    "version": 4,
+    "title": "GIT",
+    "description": "a list of articles focusing on medical conditions management specially investigations and treatment",
+    "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/git/index.json"
+  },
+  {
+    "version": 4,
+    "title": "Neurology",
+    "description": "a list of articles focusing on medical conditions management specially investigations and treatment",
+    "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/neurology/index.json"
+  },
+  {
+    "version": 4,
+    "title": "Endocrinology",
+    "description": "a list of articles focusing on medical conditions management specially investigations and treatment",
+    "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/endocrinology/index.json"
   },
   {
     "version": 0,
     "title": "ICU",
     "description": "a list of articles focusing on ICU skills and knowledge",
-    "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/index_icu.json"
+    "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/icu/index.json"
   }
 ]

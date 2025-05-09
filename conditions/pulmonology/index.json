@@ -1,0 +1,51 @@
+[
+  {
+    "version": 0,
+    "key": "acute_severe_asthma",
+    "title": "Acute severe asthma",
+    "description": "a life-threatening condition characterized by a sudden worsening of asthma symptoms, including severe shortness of breath, wheezing, and difficulty breathing, often requiring emergency treatment.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/acute_severe_asthma.md"
+  },
+  {
+    "version": 2,
+    "key": "acute_exacerbations_of_copd",
+    "title": "Acute exacerbations of COPD",
+    "description": "A common medical emergency especially in winter. May be triggered by viral or bacterial infections.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/acute_exacerbations_of_copd.md"
+  },
+  {
+    "version": 0,
+    "key": "pneumonia",
+    "title": "Pneumonia",
+    "description": "An acute lower respiratory tract infection associated with fever, symptoms and signs in the chest, and abnormalities on the chest x-ray",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pneumonia.md"
+  },
+  {
+    "version": 0,
+    "key": "bronchiectasis",
+    "title": "Bronchiectasis",
+    "description": "Chronic inﬂammation of the bronchi and bronchioles leading to permanent dilatation and thinning of these airways.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/bronchiectasis.md"
+  },
+  {
+    "version": 0,
+    "key": "pulmonary_embolism_(pe)",
+    "title": "Pulmonary embolism (PE)",
+    "description": "Venous thrombi, usually from DVT, pass into the pulmonary circulation and block blood fl ow to lungs. The source is often occult.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pulmonary_embolism_(pe).md"
+  },
+  {
+    "version": 2,
+    "key": "pneumothorax",
+    "title": "Pneumothorax",
+    "description": "Mentions key items in pneumothorax management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pneumothorax.md"
+  },
+  {
+    "version": 2,
+    "key": "chronic_obstructive_pulmonary_disease_(copd)",
+    "title": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "description": "A common progressive disorder characterized by airway obstruction (FEV1 <80% predicted; FEV1/FVC <0.7; see p162 and table 4.5) with little or no reversibility. It includes chronic bronchitis and emphysema.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/chronic_obstructive_pulmonary_disease_(copd).md"
+  }
+]
