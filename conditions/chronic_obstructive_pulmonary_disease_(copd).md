@@ -2,16 +2,19 @@
 
 ### Investigations
 
-- `CBC` : ↑ RBCs
+- `CBC` : ↑ RBCs, anemia ?
 - `CXR`: Hyperinflation
-- `CT`
+- `CT`: only if CXR/spirometry abnormalities require clarification
 - `ECG`: Right atrial and ventricular hypertrophy (cor pulmonale)
-- `ABG`: ↓ PₐO₂ ± hypercapia
-- `Spirometry` (FEV₁ <80% of predicted, FEV₁:FVC ratio <70%, ↑ TLC, ↑ RV, ↓ DLCO in emphysema)
+- `echo`
+- `ABG`: if O₂ ≤92%; ↓ PₐO₂ ± hypercapia
+- `Spirometry` (FEV₁ <80% of predicted, FEV₁:FVC ratio <70% post-​bronchodilation, ↑ TLC, ↑ RV, ↓ DLCO in emphysema)
+- `Thyroid function test (TFT)`
+- `α1-​AT levels`
 
 ### Treatment
 
-- Smoking cessation
+- `Smoking cessation`
 - Encourage exercise
 - Diet advice ± supplements
 - `Mucolytics`

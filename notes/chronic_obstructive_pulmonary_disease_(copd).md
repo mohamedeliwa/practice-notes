@@ -52,7 +52,7 @@ Respiratory viruses account for around 30% of exacerbations, with the human rhin
 - ECG: Right atrial and ventricular hypertrophy (cor pulmonale).
 - echo : if features of core pulmonale.
 - ABG: ↓ PₐO₂ ± hypercapnia.
-- Spirometry: obstructive + air trapping (FEV₁ <80% of predicted, FEV₁:FVC ratio <70%, ↑ TLC, ↑ RV, ↓ DLCO in emphysema).
+- Spirometry: obstructive + air trapping (FEV₁ <80% of predicted, FEV₁:FVC ratio <70% post-​bronchodilation, ↑ TLC, ↑ RV, ↓ DLCO in emphysema).
 - Thyroid function test (TFT): if unduly breathless
 - α1-​AT levels: alpha-1 antitrypsin deficiency is a genetic cause of early-onset emphysema (basal emphysema). and is worse in smokers and can cause COPD at a young age (40s and 50s).
 
