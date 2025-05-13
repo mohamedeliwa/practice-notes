@@ -1,9 +1,9 @@
 [
   {
     "version": 0,
-    "key": "decaf_score",
+    "key": "decaf",
     "title": "DECAF Score",
     "description": "Can be used to predict mortality from COPD exacerbations.",
-    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/scores/decaf_score.md"
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/scores/decaf.md"
   }
 ]
