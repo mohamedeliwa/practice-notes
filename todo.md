@@ -27,4 +27,7 @@
 - [x] replace the stage repo urls with the master one
 - [x] divide topics into multiple chapters
 - [x] test what happens to chapter that's already downloaded, but removed from the new version, would the app delete the local version of it or not ????
-- [ ] Q8 `in progress...`
+- [ ] studying pleural effusion & thoracentesis  `in progress...`
+- [ ] write topics about both of them
+- [ ] Q10
+- [ ]
