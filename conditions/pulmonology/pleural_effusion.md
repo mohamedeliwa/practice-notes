@@ -27,7 +27,7 @@ Commonest causes in the UK and USA (in order): cardiac failure, pneumonia, malig
   - depending on clinical circumstances (cholesterol, triglycerides, chylomicrons,
     `haematocrit`, `adenosine deaminase`, fungal stains, and amylase)
 - `CT chest` with pleural phase contrast (ideally scan prior to complete fluid drainage)
-- `CTPA` if PE possible
+- `CTPA` if PE possible (should be performed prior to thoracentesis if PE is strongly suspected.)
 - Pleural tissue `biopsy` for histology and TB culture using image-​guided
   or thoracoscopic biopsies. These techniques are superior to Abrams’
   closed pleural biopsy for malignant disease and TB
@@ -195,8 +195,66 @@ These criteria are very sensitive in the diagnosis of exudative effusions althou
     - Large-​bore drain
     - Surgical rib resection and open drainage under local anaesthesia.
 
-
-
 ## Tuberculous pleural effusion specific notes:
 
-- 
+- `Tuberculin skin tests` positive in two-​thirds of cases
+
+- Pleural fluid Lymphocytosis, exudative effusion, pH and glucose moderately depressed, mesothelial cells rare.
+
+- Pleural fluid `AFB` smears are positive in around 5–​10% of cases;
+
+- pleural fluid `cultures` are positive in 25% of cases and take 2–​6 weeks
+
+- `Blind Abrams`’ pleural biopsy alone has a sensitivity of 79%
+
+- `Thoracoscopic biopsies` have a sensitivity of nearly 100%
+
+- pleural fluid `adenosine deaminase` level: a raised value is very sensitive for pleural TB but is non-​specific and may also occur in empyema and malignancy. it's a good ‘rule-​out' test.
+
+- `PCR` for mycobacterial in the pleural fluid may be useful diagnostically but is not widely available
+
+- `Induced sputum for AFB` may have a diagnostic role in high-​risk patients with lymphocytic effusions, even in the absence of parenchymal disease on CXR.
+
+- Treatment is the same as for pulmonary TB
+
+## Pleural effusion due to PE
+
+- Consider in all patients with undiagnosed pleural effusion, particularly if there is a history of pleuritic chest pain or of breathlessness/​hypoxia out of proportion to the size of the effusion
+
+- Frequently complicates other disease processes, e.g. occurs in 1/​5 of patients with cardiac failure and pleural effusions
+
+- Effusions are usually small (<1/​3 of hemithorax) and unilateral although may be bilateral
+
+- Pleural fluid analysis is non-​diagnostic; appearance varies from clear to bloody; 80% are exudates and 20% transudates.
+
+- Bloodstained pleural fluid is **not** a contraindication to anticoagulation
+
+## Rheumatoid arthritis (RA)-​associated pleural effusion
+
+- Rheumatoid pleurisy is more common in men (70% are in men)
+- Pleural fluid may be yellow-​green, serous, turbid, or bloody
+- Unilateral or bilateral
+- Pleural fluid glucose level frequently low (<1.6 mmol/​L) and progressively falls in chronic effusions
+- Pleural fluid pH commonly reduced (<7.3)
+- Low pleural fluid complement levels (C4 <0.04 g/​L) may also favour the diagnosis
+- Pleural fluid RhF titre is not more diagnostically helpful than `serum RhF`
+- Typically persist for months to years, although duration may be several weeks
+- Some cases may respond to treatment with steroids.
+
+## Hemothorax
+
+- A haematocrit >50% of peripheral blood hematocrit
+- Massive hemothorax defined as >1,500 cm³ of blood in hemithorax.
+- Traumatic hemothorax requires a `chest drain` and sometimes thoracotomy;
+- All traumatic cases should be discussed immediately with the `cardiothoracic surgical team`
+
+## Pleural effusion after coronary artery bypass graft (CABG)
+
+- Small, typically left-​sided pleural effusions
+- Most resolve spontaneously
+- Larger (>25% of hemithorax) effusions can be subdivided:
+  - occurring within 30 days of surgery. Classically bloody and eosinophilic exudate, with high LDH;
+  - occuring >30 days after surgery. Typically clear and lymphocytic exudate;
+- Main symptom in each case is breathlessness; chest pain and fever are unusual
+- Management consists of `repeated therapeutic thoracentesis` to alleviate breathlessness.
+- Recurrent effusions after 1 y are rare and may be difficult to treat; `NSAIDs`, `prednisolone`, or `thoracoscopy and pleurodesis` may be considered
