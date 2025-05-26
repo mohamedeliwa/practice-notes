@@ -29,7 +29,8 @@
 - [x] test what happens to chapter that's already downloaded, but removed from the new version, would the app delete the local version of it or not ????
 - [x] studying pleural effusion
 - [x] studying thoracentesis
-- [ ] write an article for pleural effusion `in progress...`
+- [x] write an article for pleural effusion
+- [ ] review and refine pleural effusion article `in progress...`
 - [ ] write an article for thoracentesis
 - [ ] Q10
 - [ ]
