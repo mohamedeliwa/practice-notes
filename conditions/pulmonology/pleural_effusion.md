@@ -1,16 +1,9 @@
 # Pleural effusion
 
 ↑, ↓
-A peural effusion results from the accumulation of abnormal volumes
-(>10–​20 mL) of fluid in the pleural space.
+A peural effusion results from the accumulation of abnormal volumes (>10–​20 mL) of fluid in the pleural space.
 
 Commonest causes in the UK and USA (in order): cardiac failure, pneumonia, malignancy, pulmonary embolus (PE).
-
-## Consider admission and chest drain insertion for:
-
-- malignant effusions which are candidates for pleurodesis
-- Empyema (pus) or complicated parapneumonic effusion (pleural fluid pH <7.2)
-- Patients who are unwell with an acute massive effusion.
 
 ## Investigations
 
@@ -19,22 +12,19 @@ Commonest causes in the UK and USA (in order): cardiac failure, pneumonia, malig
 - `Thoracentesis`
   - Note pleural fuild appearance
   - Biochemistry (`glucose`, `protein`, `LDH`)
+  - ABG (for `PH`) For non-purulent effusion
   - `Cytology` (for malignant cells and differential cell count)
   - `Microbiology` (Gram stain, `culture`)
   - For suspected pleural infection (send pleural fluid in blood culture bottles)
   - `AFB stain`, and `TB culture`
-  - ABG (for `PH`) For non-purulent effusion
-  - depending on clinical circumstances (cholesterol, triglycerides, chylomicrons,
-    `haematocrit`, `adenosine deaminase`, fungal stains, and amylase)
+  - depending on clinical circumstances (cholesterol, triglycerides, chylomicrons, `haematocrit`, `adenosine deaminase`, fungal stains, and amylase)
 - `CT chest` with pleural phase contrast (ideally scan prior to complete fluid drainage)
 - `CTPA` if PE possible (should be performed prior to thoracentesis if PE is strongly suspected.)
-- Pleural tissue `biopsy` for histology and TB culture using image-​guided
-  or thoracoscopic biopsies. These techniques are superior to Abrams’
-  closed pleural biopsy for malignant disease and TB
+- Pleural tissue `biopsy` for histology and TB culture using image-​guided or thoracoscopic biopsies. These techniques are superior to Abrams’ closed pleural biopsy for malignant disease and TB
 
 - Serum/Pleural tumor markers for suspected malignant effusion, (e.g. CEA, CA19-​9, CA15-​3, CA125, PSA, Mesothelin), But should not be routinely used for investigation of pleural effusions due to poor sensitivity.
 
-## pleural effusion a transudate or an exudate?
+## A transudate or an exudate?
 
 - In patients with a normal serum protein
   - pleural fluid protein <30 g/​L = transudate
@@ -52,8 +42,6 @@ effusion is exudative if it meets one of following criteria:
 These criteria are very sensitive in the diagnosis of exudative effusions although may occasionally falsely identify transudates as being exudates, e.g. patients with partially treated heart failure on diuretics may be misidentified as exudates. N-​terminal pro-​brain natriuretic peptide (NT-​proBNP) in pleural fluid or blood may be of use in these cases. Similarly, a total protein gradient (serum-​pleural fluid total protein) >31 g/​L is suggestive of heart failure.
 
 ## Some Pleural fluid analysis results
-
-- Hemothorax: if pleural fluid hematocrit >50% of peripheral blood hematocrit
 
 ### Characteristics
 
@@ -75,15 +63,14 @@ These criteria are very sensitive in the diagnosis of exudative effusions althou
 
 - Lupus erythematosus cells: Diagnostic of SLE
 
-### Some of PH, Glucose results
+### Some of PH, and Glucose results
 
 - Normal pleural fluid pH is about 7.6.
 - An abnormally low pH (<7.3) suggests pleural inflammation/​infection and is often associated with a low pleural fluid glucose (<3.3 mmol/​L or pleural fluid/​serum glucose ratio <0.5).
 - CPPE and empyema (pH <7.2, glucose <2.2 mmol/L and LDH >1000IU/L)
 - Rheumatoid pleuritis (glucose <1.7 mmol/​L in 66% and <2.8 mmol/​L in 80% of cases)
-- Urinothorax is the only transudative effusion that can cause aa PH <7.3.
-- An abnormally high (alkaline) pH may rarely occur in the setting of Proteus
-  pleural infection.
+- Urinothorax is the only transudative effusion that can cause a PH <7.3.
+- An abnormally high (alkaline) pH may rarely occur in the setting of Proteus pleural infection.
 
 ### Some of triglyceride and cholesterol results
 
@@ -93,26 +80,33 @@ These criteria are very sensitive in the diagnosis of exudative effusions althou
 
 ### Some of amylase results
 
-- Abnormal if pleural fluid amylase > upper normal limit for serum amylase, or if amylase pleural fluid/​serum ratio >1.0.
+- Abnormal if pleural fluid amylase > upper normal limit for serum amylase,
+- Or if amylase pleural fluid/​serum ratio >1.0.
 
 > Note—​may be normal early in the course of acute pancreatitis or oesophageal rupture.
+
+## Consider admission and chest drain insertion for:
+
+- malignant effusions which are candidates for pleurodesis
+- Empyema (pus) or complicated parapneumonic effusion (pleural fluid pH <7.2)
+- Patients who are unwell with an acute massive effusion.
 
 ## Management
 
 - History (including drug hx)
 - Examination
-- CXR, pleural US
+- `CXR`, pleural `US`
 - If obvious cause for transudative effusions (HF, hypoalbuminemia, dialysis)
   - The cause should be treated, with no need for thoracentesis
   - Unless atypical features (e.g. very asymmetrical bilateral effusions, unilateral effusion, echogenicity/septations/nodularity on US, chest pain, fever) or failure to respond to therapy.
   - If so, do thoracentesis (diagnostic and/​or therapeutic depending on clinical circumstances)
 - If exudative effusion, or no obvious cause for transudative
-  - Thoracentesis (diagnostic and/​or therapeutic depending on clinical circumstances)
+  - `Thoracentesis` (diagnostic and/​or therapeutic depending on clinical circumstances)
   - If Cause apparent
   - Then treat and monitor
   - If no apparent cause
-  - CT thorax with Pleural phase contrast enhancement
-  - Pleural biopsy (CT/USS-guided or local anaesthetic thoracoscopy/VATS)
+  - `CT` thorax with Pleural phase contrast enhancement
+  - `Pleural biopsy` (CT/USS-guided or local anaesthetic thoracoscopy/VATS)
   - If Cause apparent
   - Then treat and monitor
   - If no apparent cause
@@ -243,7 +237,7 @@ These criteria are very sensitive in the diagnosis of exudative effusions althou
 
 ## Hemothorax
 
-- A haematocrit >50% of peripheral blood hematocrit
+- If pleural fluid hematocrit >50% of peripheral blood hematocrit
 - Massive hemothorax defined as >1,500 cm³ of blood in hemithorax.
 - Traumatic hemothorax requires a `chest drain` and sometimes thoracotomy;
 - All traumatic cases should be discussed immediately with the `cardiothoracic surgical team`
