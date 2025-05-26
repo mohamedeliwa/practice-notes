@@ -119,38 +119,48 @@ These criteria are very sensitive in the diagnosis of exudative effusions althou
 
 - Observation and follow-​up if asymptomatic.
 
-- Therapeutic pleural aspiration
+- Therapeutic pleural `aspiration` if breathless
 
   - Remove 1-1.5 L to improve breathlessness
-  - Post-aspiration CXR (alternatively, pleural manometry during aspiration), for evaluation of possible non-​expandable lung
+  - `Post-aspiration CXR` (alternatively, pleural manometry during aspiration), for evaluation of possible non-​expandable lung
   - If the breathlessness does not improve following aspiration, then there is little to be gained by repeated aspiration, and other causes should be considered, e.g. lymphangitis carcinomatosis, PE.
-  - if effusion recur within 1 month of aspiration, pleurodesis or indwelling pleural catheter (IPC) should be considered
+  - if effusion recurs within 1 month of aspiration, pleurodesis or indwelling pleural catheter (IPC) should be considered
 
-- Intercostal chest drainage and pleurodesis
+- `Intercostal chest drainage and pleurodesis`
 
-  - The effusion drained with an intercostal tube.
-  - Provided lung fully re-​expands on CXR, proceed to pleurodesis
-  - If lung fails to re-​expand fully (trapped lung; CXR shows a pneumothorax or hydropneumothorax), consider `chest drain suction`, which may encourage lung expansion and allow pleurodesis.
+  - Proceed to pleurodesis if lung fully re-​expands on CXR, after drainage
+  - If lung fails to re-​expand fully (trapped lung; CXR shows a pneumothorax or hydropneumothorax),
+  - consider `chest drain suction`, which may encourage lung expansion and allow pleurodesis.
 
-- Indwelling pleural catheter insertion
+- Indwelling `pleural catheter` insertion
 
   - likely to be the preferred treatment for patients with significantly trapped lung
 
 ## Parapneumonic effusion and empyema specific notes:
 
-- Empyemas on CT, frequently appear lenticular and may exhibit the ‘split pleura’ sign of enhancing separated visceral and parietal pleura. Absence of pleural thickening on CT is unusual in empyema
-- Of pleural infections, 40% are culture-​negative.
+- Empyemas on CT, frequently appear lenticular and may exhibit the ‘split pleura’ sign of enhancing separated visceral and parietal pleura.
+- Absence of pleural thickening on CT is unusual in empyema
+- 40% Of pleural infections are culture-​negative.
 - Blood cultures positive in only 14% of cases, but, in these cases, they are often the only positive microbiology
 - Bronchoscopy is only indicated if a bronchial obstructing lesion is suspected.
-- (rare presentation) History of a recent sore throat may suggest Lemierre’s syndrome, consider US of internal jugular vein if suspected
+- History of a recent sore throat may suggest Lemierre’s syndrome (rare presentation), consider US of internal jugular vein if suspected
 
 - `Antibiotics`
 
-  - Community-​acquired empyema—​β-​lactam/​β-​lactamase inhibitor (e.g. co-​amoxiclav) or second-​generation cephalosporin (e.g. cefuroxime), combined with metronidazole for anaerobic cover. Ciprofloxacin and clindamycin together may be appropriate
-  - Hospital-​acquired empyema—​cover Gram-​positive and Gram-​negative organisms and anaerobes. MRSA infection is common. Consult with microbiology team. One option is meropenem and vancomycin.
+  - Community-​acquired empyema:
+
+    - β-​lactam/​β-​lactamase inhibitor (e.g. `co-​amoxiclav`) or second-​generation cephalosporin (e.g. `cefuroxime`), combined with `metronidazole` for anaerobic cover.
+    - `Ciprofloxacin` and `clindamycin` together may be appropriate
+
+  - Hospital-​acquired empyema:
+
+    - cover Gram-​positive and Gram-​negative organisms and anaerobes.
+    - MRSA infection is common. Consult with microbiology team.
+    - One option is `meropenem` and `vancomycin`.
+
   - Avoid aminoglycosides, which penetrate the pleural space poorly.
   - Switch to oral antibiotics when apyrexial and improving clinically.
-  - Co-​amoxiclav is a useful single agent with anaerobic cover (not if penicillin-​allergic).
+  - Oral Co-​amoxiclav is a useful single agent with anaerobic cover (not if penicillin-​allergic).
   - Optimal duration of antibiotic treatment unclear, although likely to be at least 3 weeks.
 
 - `Chest tube drainage`
@@ -162,17 +172,16 @@ These criteria are very sensitive in the diagnosis of exudative effusions althou
     - Pleural fluid pH <7.2.
 
   - Usually apply suction (–​20 cmH2O), and flush regularly (e.g. 20 mL normal saline every 6 h)
-
   - Consider drain removal when clinical improvement occurs.
   - If there is no indication for drainage, give antibiotics and monitor closely.
   - If slow to improve or deteriorate, re-​sample the effusion and consider chest drain.
 
 - `Intrapleural fibrinolytics`
 
-  - The combination of intrapleural tPA and DNase significantly improved CXR appearances for patients with pleural infection, reduced surgical referral and hospital stay with a similar adverse event profile.
+  - The combination of intrapleural `tPA` and `DNase` significantly improved CXR appearances for patients with pleural infection, reduced surgical referral and hospital stay with a similar adverse event profile.
 
 - `Nutritional support`: consider supplementary NG feeding if needed.
-- `Thromboprophylaxis`:
+- `Thromboprophylaxis`
 - `Surgery`
 
   - Consult with thoracic surgeon if there are ongoing features of sepsis and residual pleural collection after 5–​7 days despite tube drainage and treatment with antibiotics.
@@ -199,13 +208,13 @@ These criteria are very sensitive in the diagnosis of exudative effusions althou
 
 - pleural fluid `cultures` are positive in 25% of cases and take 2–​6 weeks
 
-- `Blind Abrams`’ pleural biopsy alone has a sensitivity of 79%
+- `Blind Abrams’` pleural biopsy alone has a sensitivity of 79%
 
 - `Thoracoscopic biopsies` have a sensitivity of nearly 100%
 
 - pleural fluid `adenosine deaminase` level: a raised value is very sensitive for pleural TB but is non-​specific and may also occur in empyema and malignancy. it's a good ‘rule-​out' test.
 
-- `PCR` for mycobacterial in the pleural fluid may be useful diagnostically but is not widely available
+- `PCR` for mycobacterial in the pleural fluid
 
 - `Induced sputum for AFB` may have a diagnostic role in high-​risk patients with lymphocytic effusions, even in the absence of parenchymal disease on CXR.
 
@@ -221,7 +230,7 @@ These criteria are very sensitive in the diagnosis of exudative effusions althou
 
 - Pleural fluid analysis is non-​diagnostic; appearance varies from clear to bloody; 80% are exudates and 20% transudates.
 
-- Bloodstained pleural fluid is **not** a contraindication to anticoagulation
+- Bloodstained pleural fluid is **not** a contraindication to `anticoagulation`
 
 ## Rheumatoid arthritis (RA)-​associated pleural effusion
 
