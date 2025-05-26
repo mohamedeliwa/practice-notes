@@ -30,7 +30,6 @@
 - [x] studying pleural effusion
 - [x] studying thoracentesis
 - [x] write an article for pleural effusion
-- [ ] review and refine pleural effusion article `in progress...`
-- [ ] write an article for thoracentesis
+- [ ] write an article for thoracentesis `in progress...`
 - [ ] Q10
 - [ ]
