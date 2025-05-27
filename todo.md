@@ -30,6 +30,12 @@
 - [x] studying pleural effusion
 - [x] studying thoracentesis
 - [x] write an article for pleural effusion
-- [ ] write an article for thoracentesis `in progress...`
-- [ ] Q10
+- [x] write an article for thoracentesis
+- [x] review the thoracentesis article
+- [ ] Q10 `in progress...`
 - [ ]
+
+## articles to be moved to practix web
+
+- [ ] pleural effusion
+- [ ] thoracentesis

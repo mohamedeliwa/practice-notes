@@ -1,6 +1,5 @@
 # Pleural effusion
 
-↑, ↓
 A peural effusion results from the accumulation of abnormal volumes (>10–​20 mL) of fluid in the pleural space.
 
 Commonest causes in the UK and USA (in order): cardiac failure, pneumonia, malignancy, pulmonary embolus (PE).

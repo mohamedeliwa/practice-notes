@@ -47,5 +47,19 @@
     "title": "Chronic Obstructive Pulmonary Disease (COPD)",
     "description": "A common progressive disorder characterized by airway obstruction (FEV1 <80% predicted; FEV1/FVC <0.7; see p162 and table 4.5) with little or no reversibility. It includes chronic bronchitis and emphysema.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/chronic_obstructive_pulmonary_disease_(copd).md"
+  },
+  {
+    "version": 0,
+    "key": "pleural_effusion",
+    "title": "Pleural effusion",
+    "description": "A peural effusion results from the accumulation of abnormal volumes (>10–​20 mL) of fluid in the pleural space.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pulmonology/pleural_effusion.md"
+  },
+  {
+    "version": 0,
+    "key": "thoracentesis",
+    "title": "Thoracentesis",
+    "description": "Thoracentesis (pleural tap or pleural fluid aspiration) may be diagnostic or therapeutic.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pulmonology/thoracentesis.md"
   }
 ]
