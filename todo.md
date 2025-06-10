@@ -34,8 +34,8 @@
 - [x] review the thoracentesis article
 - [ ] Q10
   - [x] study asthma
-  - [ ] write or modify the topic on acute asthma `in progress...`
-  - [ ] write or modify the topic on chronic asthma
+  - [x] write or modify the topic on acute asthma
+  - [ ] write or modify the topic on chronic asthma `in progress...`
 
 ## articles to be moved to practix web
 
