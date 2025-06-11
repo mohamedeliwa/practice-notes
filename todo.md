@@ -35,7 +35,9 @@
 - [ ] Q10
   - [x] study asthma
   - [x] write or modify the topic on acute asthma
-  - [ ] write or modify the topic on chronic asthma `in progress...`
+  - [ ] write or modify the topic on chronic asthma 
+    - [ ] finalize investigations `in progress...`
+    - [ ] write management algorithm
 
 ## articles to be moved to practix web
 
