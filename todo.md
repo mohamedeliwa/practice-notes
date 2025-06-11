@@ -36,8 +36,8 @@
   - [x] study asthma
   - [x] write or modify the topic on acute asthma
   - [ ] write or modify the topic on chronic asthma 
-    - [ ] finalize investigations `in progress...`
-    - [ ] write management algorithm
+    - [x] finalize investigations 
+    - [ ] write management algorithm `in progress...`
 
 ## articles to be moved to practix web
 
