@@ -32,12 +32,15 @@
 - [x] write an article for pleural effusion
 - [x] write an article for thoracentesis
 - [x] review the thoracentesis article
-- [ ] Q10
+- [x] Q10
   - [x] study asthma
   - [x] write or modify the topic on acute asthma
-  - [ ] write or modify the topic on chronic asthma 
-    - [x] finalize investigations 
-    - [ ] write management algorithm `in progress...`
+  - [x] write or modify the topic on chronic asthma
+    - [x] finalize investigations
+    - [x] write management algorithm
+  - [ ] an article about refractory asthma
+  - [ ] an article about asthma in pregnancy
+- [ ] Q11 `in progress...`
 
 ## articles to be moved to practix web
 

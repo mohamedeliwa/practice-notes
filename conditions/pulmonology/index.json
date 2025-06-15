@@ -61,5 +61,12 @@
     "title": "Thoracentesis",
     "description": "Thoracentesis (pleural tap or pleural fluid aspiration) may be diagnostic or therapeutic.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pulmonology/thoracentesis.md"
+  },
+  {
+    "version": 0,
+    "key": "chronic_asthma",
+    "title": "Chronic Asthma",
+    "description": "Mentions key items in Chronic asthma management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pulmonology/chronic_asthma.md"
   }
 ]
