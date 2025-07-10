@@ -40,7 +40,10 @@
     - [x] write management algorithm
   - [ ] an article about refractory asthma
   - [ ] an article about asthma in pregnancy
-- [ ] Q11 `in progress...`
+- [ ] Q11
+  - [ ] study radiology slides `in progress...`
+  - [ ] study pneumonia from OCM 11
+  - [ ] refine pneumonia article
 
 ## articles to be moved to practix web
 
