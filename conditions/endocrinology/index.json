@@ -5,7 +5,7 @@
     "title": "Diabetic Ketoacidosis (DKA)",
     "description": "In acute diabetic ketoacidosis, the body cannot use glucose effectively due to a lack of insulin, so pushing the body into a starvation-like state where ketoacidosis is the only mechanism of energy production.",
     "url": "http://localhost:8080/conditions/diabetic_ketoacidosis_(dka).md",
-    "tags": ["5th", "6th"]
+    "tags": ["endocrinology", "icu", "emergency"]
   },
   {
     "version": 0,
@@ -13,7 +13,7 @@
     "title": "Hypoglycemia",
     "description": "Mentions key items in hypoglycemia management.",
     "url": "http://localhost:8080/conditions/hypoglycemia.md",
-    "tags": ["5th", "6th"]
+    "tags": ["endocrinology", "icu", "emergency"]
   },
   {
     "version": 0,
@@ -21,7 +21,7 @@
     "title": "Hyperglycemic hyperosmolar state (HHS)",
     "description": "Mentions key items in Hyperglycemic hyperosmolar state (HHS) management.",
     "url": "http://localhost:8080/conditions/hyperglycemic_hyperosmolar_state_(hhs).md",
-    "tags": ["5th", "6th"]
+    "tags": ["endocrinology", "icu", "emergency"]
   },
   {
     "version": 0,
@@ -29,7 +29,7 @@
     "title": "Lactic acidosis",
     "description": "A rare but serious complication of DM with metformin use or septicemia.",
     "url": "http://localhost:8080/conditions/lactic_acidosis.md",
-    "tags": ["5th", "6th"]
+    "tags": ["endocrinology", "icu", "emergency"]
   },
   {
     "version": 0,
@@ -37,7 +37,7 @@
     "title": "Myxedema coma",
     "description": "The ultimate hypothyroid state before death.",
     "url": "http://localhost:8080/conditions/myxoedema_coma.md",
-    "tags": ["5th", "6th"]
+    "tags": ["endocrinology", "icu", "emergency"]
   },
   {
     "version": 0,
@@ -45,7 +45,7 @@
     "title": "Hyperthyroid crisis (thyrotoxic storm)",
     "description": "Mentions key items in Hyperthyroid crisis (thyrotoxic storm) management.",
     "url": "http://localhost:8080/conditions/hyperthyroid_crisis_(thyrotoxic_storm).md",
-    "tags": ["5th", "6th"]
+    "tags": ["endocrinology", "icu", "emergency"]
   },
   {
     "version": 0,
@@ -53,7 +53,7 @@
     "title": "Addisonian crisis",
     "description": "Patients may present in shock, often (but not always) in a patient with known Addison’s, or someone on long-term steroids who has forgotten their tablets. Remember bilateral adrenal hemorrhage (e.g. meningococcemia) as a cause. An alternative presentation is with hypoglycemia",
     "url": "http://localhost:8080/conditions/addisonian_crisis.md",
-    "tags": ["5th", "6th"]
+    "tags": ["endocrinology", "icu", "emergency"]
   },
   {
     "version": 0,
@@ -61,7 +61,7 @@
     "title": "Hypopituitary coma",
     "description": "Think of decompensated chronic hypophyseal failure whenever hypothermia, refractory hypotension ± septic signs without fever occur with short stature or loss of axillary/pubic hair ± gonadal atrophy.",
     "url": "http://localhost:8080/conditions/hypopituitary_coma.md",
-    "tags": ["5th", "6th"]
+    "tags": ["endocrinology", "icu", "emergency"]
   },
   {
     "version": 0,
@@ -69,7 +69,7 @@
     "title": "Pheochromocytoma emergencies",
     "description": "Patients with pheochromocytoma may have had undiagnosed symptoms for some time, but stress, abdominal palpation, parturition, general anaesthetic, or contrast media used in imaging can cause acute hypertensive crises.",
     "url": "http://localhost:8080/conditions/pheochromocytoma_emergencies.md",
-    "tags": ["5th", "6th"]
+    "tags": ["endocrinology", "icu", "emergency"]
   },
   {
     "version": 0,
@@ -77,7 +77,7 @@
     "title": "Acute poisoning",
     "description": "Mentions key items in Acute poisoning management and Some specific poisons and their antidotes.",
     "url": "http://localhost:8080/conditions/acute_poisoning.md",
-    "tags": ["5th", "6th"]
+    "tags": ["endocrinology", "icu", "emergency"]
   },
   {
     "version": 0,
@@ -85,7 +85,7 @@
     "title": "Paracetamol poisoning",
     "description": "12g (=24 tablets) or 150mg/kg in adults may be fatal, If the patient is malnourished then 75mg/kg can kill.",
     "url": "http://localhost:8080/conditions/paracetamol_poisoning.md",
-    "tags": ["5th", "6th"]
+    "tags": ["endocrinology", "icu", "emergency"]
   },
   {
     "version": 0,
@@ -93,7 +93,7 @@
     "title": "Salicylate poisoning",
     "description": "Uncoupling of oxidative phosphorylation leads to anaerobic metabolism and the production of lactate and heat, Effects are dose related and potentially fatal.",
     "url": "http://localhost:8080/conditions/salicylate_poisoning.md",
-    "tags": ["5th", "6th"]
+    "tags": ["endocrinology", "icu", "emergency"]
   },
   {
     "version": 0,
@@ -101,7 +101,7 @@
     "title": "Burns",
     "description": "The rule of nines: (arm: 9%; front of trunk 18%; head and neck 9%; leg 18%; back of trunk 18%; perineum 1%).",
     "url": "http://localhost:8080/conditions/burns.md",
-    "tags": ["5th", "6th"]
+    "tags": ["endocrinology", "icu", "emergency"]
   },
   {
     "version": 0,
@@ -109,6 +109,6 @@
     "title": "Hypothermia",
     "description": "Most patients are elderly and do not complain of, or feel, cold, so they have not tried to warm up; In the young, hypothermia is usually from cold exposure",
     "url": "http://localhost:8080/conditions/hypothermia.md",
-    "tags": ["5th", "6th"]
+    "tags": ["endocrinology", "icu", "emergency"]
   }
 ]

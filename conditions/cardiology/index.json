@@ -5,7 +5,7 @@
     "title": "Cardiogenic shock",
     "description": "Cardiogenic shock is a state of inadequate tissue perfusion primarily due to cardiac dysfunction. It may occur suddenly, or after progressively worsening heart failure.",
     "url": "http://localhost:8080/conditions/cardiogenic_shock.md",
-    "tags": ["1st", "2nd"]
+    "tags": ["cardiology"]
   },
   {
     "version": 0,
@@ -13,7 +13,7 @@
     "title": "Cardiac tamponade",
     "description": "Pericardial fluid accumulates, causing an increase in intrapericardial pressure, which prevents the heart from filling properly and ultimately stops its pumping function.",
     "url": "http://localhost:8080/conditions/cardiac_tamponade.md",
-    "tags": ["1st", "2nd"]
+    "tags": ["cardiology"]
   },
   {
     "version": 0,
@@ -21,7 +21,7 @@
     "title": "Acute coronary syndrome—with ST-elevation (STEMI)",
     "description": "Mentions key items in Acute STEMI management.",
     "url": "http://localhost:8080/conditions/acute_coronary_syndrome_with_st_elevation_(stemi).md",
-    "tags": ["1st", "2nd"]
+    "tags": ["cardiology"]
   },
   {
     "version": 0,
@@ -29,7 +29,7 @@
     "title": "Acute coronary syndrome—without ST-elevation (non STEMI)",
     "description": "Mentions key items in Acute Non STEMI management.",
     "url": "http://localhost:8080/conditions/acute_coronary_syndrome_without_st_elevation_(non_stemi).md",
-    "tags": ["1st", "2nd"]
+    "tags": ["cardiology"]
   },
   {
     "version": 0,
@@ -37,7 +37,7 @@
     "title": "Severe pulmonary oedema",
     "description": "Mentions key items in Acute Non STEMI management.",
     "url": "http://localhost:8080/conditions/severe_pulmonary_oedema.md",
-    "tags": ["1st", "2nd"]
+    "tags": ["cardiology", "pulmonology"]
   },
   {
     "version": 0,
@@ -45,7 +45,7 @@
     "title": "Broad complex tachycardia",
     "description": "Ventricular tachycardia (VT) including torsade de pointes, SVT with aberrant conduction, e.g. AF or atrial flutter, with bundle branch block. Pre-excited tachycardias, e.g. AF, atrial flutter, or AV re-entry tachycardia, with underlying WPW.",
     "url": "http://localhost:8080/conditions/broad_complex_tachycardia.md",
-    "tags": ["1st", "2nd"]
+    "tags": ["cardiology"]
   },
   {
     "version": 0,
@@ -53,7 +53,7 @@
     "title": "Narrow complex tachycardia",
     "description": "Sinus tachycardia, Atrial fibrillation (AF), Atrial flutter, Atrial tachycardia, Multifocal atrial tachycardia, AV nodal re-entry tachycardia, AV re-entry tachycardia (e.g. WPW)",
     "url": "http://localhost:8080/conditions/narrow_complex_tachycardia.md",
-    "tags": ["1st", "2nd", "narrow"]
+    "tags": ["cardiology"]
   },
   {
     "version": 0,
@@ -61,6 +61,6 @@
     "title": "Bradycardia",
     "description": "The immediate management tends to relate more to cause and adverse signs than to the underlying rhythm, which may be Sinus bradycardia, Heart block, AF with a slow ventricular response, Atrial flutter with a high-degree block, Junctional bradycardia",
     "url": "http://localhost:8080/conditions/bradycardia.md",
-    "tags": ["1st", "2nd"]
+    "tags": ["cardiology"]
   }
 ]

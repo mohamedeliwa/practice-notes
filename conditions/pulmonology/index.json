@@ -5,7 +5,7 @@
     "title": "Acute severe asthma",
     "description": "a life-threatening condition characterized by a sudden worsening of asthma symptoms, including severe shortness of breath, wheezing, and difficulty breathing, often requiring emergency treatment.",
     "url": "http://localhost:8080/conditions/acute_severe_asthma.md",
-    "tags": ["11th"]
+    "tags": ["pulmonology"]
   },
   {
     "version": 2,
@@ -13,7 +13,7 @@
     "title": "Acute exacerbations of COPD",
     "description": "A common medical emergency especially in winter. May be triggered by viral or bacterial infections.",
     "url": "http://localhost:8080/conditions/acute_exacerbations_of_copd.md",
-    "tags": ["11th"]
+    "tags": ["pulmonology"]
   },
   {
     "version": 0,
@@ -21,7 +21,7 @@
     "title": "Pneumonia",
     "description": "An acute lower respiratory tract infection associated with fever, symptoms and signs in the chest, and abnormalities on the chest x-ray",
     "url": "http://localhost:8080/conditions/pneumonia.md",
-    "tags": ["11th"]
+    "tags": ["pulmonology"]
   },
   {
     "version": 0,
@@ -29,7 +29,7 @@
     "title": "Bronchiectasis",
     "description": "Chronic inﬂammation of the bronchi and bronchioles leading to permanent dilatation and thinning of these airways.",
     "url": "http://localhost:8080/conditions/bronchiectasis.md",
-    "tags": ["11th"]
+    "tags": ["pulmonology"]
   },
   {
     "version": 0,
@@ -37,7 +37,7 @@
     "title": "Pulmonary embolism (PE)",
     "description": "Venous thrombi, usually from DVT, pass into the pulmonary circulation and block blood fl ow to lungs. The source is often occult.",
     "url": "http://localhost:8080/conditions/pulmonary_embolism_(pe).md",
-    "tags": ["11th"]
+    "tags": ["pulmonology", "cardiology"]
   },
   {
     "version": 2,
@@ -45,7 +45,7 @@
     "title": "Pneumothorax",
     "description": "Mentions key items in pneumothorax management.",
     "url": "http://localhost:8080/conditions/pneumothorax.md",
-    "tags": ["11th"]
+    "tags": ["pulmonology"]
   },
   {
     "version": 2,
@@ -53,6 +53,6 @@
     "title": "Chronic Obstructive Pulmonary Disease (COPD)",
     "description": "A common progressive disorder characterized by airway obstruction (FEV1 <80% predicted; FEV1/FVC <0.7; see p162 and table 4.5) with little or no reversibility. It includes chronic bronchitis and emphysema.",
     "url": "http://localhost:8080/conditions/chronic_obstructive_pulmonary_disease_(copd).md",
-    "tags": ["11th"]
+    "tags": ["pulmonology"]
   }
 ]

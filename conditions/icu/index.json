@@ -5,6 +5,6 @@
     "title": "Non-invasive Ventilation (NIV)",
     "description": "NIV has two major modes of supplying ventilatory support, namely, continuous positive airway pressure (CPAP) and bilevel positive airway pressure (BiPAP).",
     "url": "http://localhost:8080/conditions/non_invasive_ventilation_(niv).md",
-    "tags": ["9th"]
+    "tags": ["icu", "pulmonology", "emergency"]
   }
 ]

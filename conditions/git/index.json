@@ -5,6 +5,6 @@
     "title": "Acute upper gastrointestinal bleeding",
     "description": "Mentions key items in Acute upper gastrointestinal bleeding management.",
     "url": "http://localhost:8080/conditions/acute_upper_gastrointestinal_bleeding.md",
-    "tags": ["7th", "8th"]
+    "tags": ["git", "emergency", "icu"]
   }
 ]

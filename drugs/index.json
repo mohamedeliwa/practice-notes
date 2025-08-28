@@ -5,7 +5,7 @@
     "title": "Salbutamol",
     "description": "Short acting β₂-adrenergic agonist.",
     "url": "http://localhost:8080/drugs/salbutamol.md",
-    "tags": ["5th"]
+    "tags": ["drugs", "pulmonology"]
   },
   {
     "version": 0,
@@ -13,6 +13,6 @@
     "title": "Salmeterol",
     "description": "Long acting β₂-adrenergic agonist.",
     "url": "http://localhost:8080/drugs/salmeterol.md",
-    "tags": ["5th"]
+    "tags": ["drugs", "pulmonology"]
   }
 ]

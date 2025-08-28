@@ -5,7 +5,7 @@
     "title": "Anaphylactic shock (Anaphylaxis)",
     "description": "Type I IgE-mediated hypersensitivity reaction. Release of histamine and other agents causes: capillary leak; wheeze; cyanosis; oedema (larynx, lids, tongue, lips); urticaria. More common in atopic individuals.",
     "url": "http://localhost:8080/conditions/anaphylactic_shock_(anaphylaxis).md",
-    "tags": ["3rd", "4th"]
+    "tags": ["emergency", "icu"]
   },
   {
     "version": 0,
@@ -13,7 +13,7 @@
     "title": "Sepsis (Septic shock)",
     "description": "Sepsis Life-threatening organ dysfunction caused by a dysregulated host response to infection",
     "url": "http://localhost:8080/conditions/sepsis_(septic_shock).md",
-    "tags": ["3rd", "4th"]
+    "tags": ["emergency", "icu"]
   },
   {
     "version": 0,
@@ -21,7 +21,7 @@
     "title": "Heat exposure (heat exhaustion)",
     "description": "Mentions key items in Heat exposure management.",
     "url": "http://localhost:8080/conditions/heat_exposure_(heat_exhaustion).md",
-    "tags": ["3rd", "4th"]
+    "tags": ["emergency", "icu"]
   },
   {
     "version": 0,
@@ -29,7 +29,7 @@
     "title": "Hemorrhagic shock",
     "description": "Mentions key items in Hemorrhagic shock management.",
     "url": "http://localhost:8080/conditions/hemorrhagic_shock.md",
-    "tags": ["3rd", "4th"]
+    "tags": ["emergency", "icu"]
   },
   {
     "version": 0,
@@ -37,6 +37,6 @@
     "title": "Hypovolemic shock",
     "description": "Mentions key items in Hypovolemic shock management.",
     "url": "http://localhost:8080/conditions/hypovolemic_shock.md",
-    "tags": ["3rd", "4th"]
+    "tags": ["emergency", "icu"]
   }
 ]
