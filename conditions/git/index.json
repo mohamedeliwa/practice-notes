@@ -4,6 +4,7 @@
     "key": "acute_upper_gastrointestinal_bleeding",
     "title": "Acute upper gastrointestinal bleeding",
     "description": "Mentions key items in Acute upper gastrointestinal bleeding management.",
-    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/acute_upper_gastrointestinal_bleeding.md"
+    "url": "http://localhost:8080/conditions/acute_upper_gastrointestinal_bleeding.md",
+    "tags": ["7th", "8th"]
   }
 ]
