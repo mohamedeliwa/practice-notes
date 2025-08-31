@@ -44,6 +44,8 @@
   - [ ] study radiology slides `in progress...`
   - [ ] study pneumonia from OCM 11
   - [ ] refine pneumonia article
+- [ ] topic for abg
+- [ ] topic for invasive ventilation
 
 ## articles to be moved to practix web
 
