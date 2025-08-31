@@ -45,7 +45,10 @@
 - [ ] Q11
   - [ ] study radiology slides
   - [ ] study pneumonia from OCM 11
-  - [ ] refine pneumonia article
+  - [ ] refine pneumonia articl
+- [ ] move articles to corresponding directories
+- [ ] add tags to topics
+- [ ] ???? create a `tags` branch for the new version and merge these updates into it
 
 ## articles to be moved to practix web
 
