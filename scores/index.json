@@ -1,16 +1,18 @@
 [
   {
-    "version": 0,
+    "version": 1,
     "key": "decaf",
     "title": "DECAF Score",
     "description": "Can be used to predict mortality from COPD exacerbations.",
-    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/scores/decaf.md"
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/scores/decaf.md",
+    "tags": ["scores", "pulmonology"]
   },
   {
-    "version": 0,
+    "version": 1,
     "key": "curb65",
     "title": "CURB 65 Score",
     "description": "an evidence based tool used to risk stratify patients presenting with pneumonia.",
-    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/scores/curb65.md"
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/scores/curb65.md",
+    "tags": ["scores", "pulmonology"]
   }
 ]

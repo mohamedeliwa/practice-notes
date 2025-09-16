@@ -40,16 +40,19 @@
     - [x] write management algorithm
   - [ ] an article about refractory asthma
   - [ ] an article about asthma in pregnancy
-- [ ] topic for invasive ventilation `in progress...`
+- [x] topic for invasive ventilation
 - [ ] topic for abg
 - [ ] steroid whatsapp records
 - [ ] Q11
   - [ ] study radiology slides
   - [ ] study pneumonia from OCM 11
   - [ ] refine pneumonia articl
+- [x] add tags to topics
+- [x] upgrade topic versions
+- [ ] merge stage `in progress...`
+- [ ] publish a new version of the android app
+- [ ] update package version of the app and this repo
 - [ ] move articles to corresponding directories
-- [ ] add tags to topics
-- [ ] ???? create a `tags` branch for the new version and merge these updates into it
 
 ## articles to be moved to practix web
 
