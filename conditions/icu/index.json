@@ -4,13 +4,15 @@
     "key": "non_invasive_ventilation_(niv)",
     "title": "Non-invasive Ventilation (NIV)",
     "description": "NIV has two major modes of supplying ventilatory support, namely, continuous positive airway pressure (CPAP) and bilevel positive airway pressure (BiPAP).",
-    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/icu/non_invasive_ventilation_(niv).md"
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/icu/non_invasive_ventilation_(niv).md",
+    "tags": ["icu"]
   },
   {
     "version": 0,
     "key": "invasive_mechanical_ventilation_(mv)",
     "title": "Invasive Mechanical Ventilation (MV)",
     "description": "MV has two major modes of supplying ventilatory support, namely, continuous positive airway pressure (CPAP) and bilevel positive airway pressure (BiPAP).",
-    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/icu/invasive_mechanical_ventilation_(mv).md"
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/icu/invasive_mechanical_ventilation_(mv).md",
+    "tags": ["icu"]
   }
 ]
