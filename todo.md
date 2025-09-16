@@ -40,8 +40,9 @@
     - [x] write management algorithm
   - [ ] an article about refractory asthma
   - [ ] an article about asthma in pregnancy
-- [ ] topic for abg `in progress...`
-- [ ] topic for invasive ventilation
+- [ ] topic for invasive ventilation `in progress...`
+- [ ] topic for abg
+- [ ] steroid whatsapp records
 - [ ] Q11
   - [ ] study radiology slides
   - [ ] study pneumonia from OCM 11
