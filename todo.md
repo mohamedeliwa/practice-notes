@@ -27,4 +27,34 @@
 - [x] replace the stage repo urls with the master one
 - [x] divide topics into multiple chapters
 - [x] test what happens to chapter that's already downloaded, but removed from the new version, would the app delete the local version of it or not ????
-- [ ] Q8 `in progress...`
+- [x] studying pleural effusion
+- [x] studying thoracentesis
+- [x] write an article for pleural effusion
+- [x] write an article for thoracentesis
+- [x] review the thoracentesis article
+- [x] Q10
+  - [x] study asthma
+  - [x] write or modify the topic on acute asthma
+  - [x] write or modify the topic on chronic asthma
+    - [x] finalize investigations
+    - [x] write management algorithm
+  - [ ] an article about refractory asthma
+  - [ ] an article about asthma in pregnancy
+- [x] topic for invasive ventilation
+- [ ] topic for abg
+- [ ] steroid whatsapp records
+- [ ] Q11
+  - [ ] study radiology slides
+  - [ ] study pneumonia from OCM 11
+  - [ ] refine pneumonia articl
+- [x] add tags to topics
+- [x] upgrade topic versions
+- [ ] merge stage `in progress...`
+- [ ] publish a new version of the android app
+- [ ] update package version of the app and this repo
+- [ ] move articles to corresponding directories
+
+## articles to be moved to practix web
+
+- [ ] pleural effusion
+- [ ] thoracentesis

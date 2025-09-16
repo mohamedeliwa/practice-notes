@@ -1,37 +1,42 @@
 [
   {
-    "version": 0,
+    "version": 1,
     "key": "anaphylactic_shock_(anaphylaxis)",
     "title": "Anaphylactic shock (Anaphylaxis)",
     "description": "Type I IgE-mediated hypersensitivity reaction. Release of histamine and other agents causes: capillary leak; wheeze; cyanosis; oedema (larynx, lids, tongue, lips); urticaria. More common in atopic individuals.",
-    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/anaphylactic_shock_(anaphylaxis).md"
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/anaphylactic_shock_(anaphylaxis).md",
+    "tags": ["emergency", "icu"]
   },
   {
-    "version": 0,
+    "version": 1,
     "key": "sepsis_(septic_shock)",
     "title": "Sepsis (Septic shock)",
     "description": "Sepsis Life-threatening organ dysfunction caused by a dysregulated host response to infection",
-    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/sepsis_(septic_shock).md"
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/sepsis_(septic_shock).md",
+    "tags": ["emergency", "icu"]
   },
   {
-    "version": 0,
+    "version": 1,
     "key": "heat_exposure_(heat_exhaustion)",
     "title": "Heat exposure (heat exhaustion)",
     "description": "Mentions key items in Heat exposure management.",
-    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/heat_exposure_(heat_exhaustion).md"
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/heat_exposure_(heat_exhaustion).md",
+    "tags": ["emergency", "icu"]
   },
   {
-    "version": 0,
+    "version": 1,
     "key": "hemorrhagic_shock",
     "title": "Hemorrhagic shock",
     "description": "Mentions key items in Hemorrhagic shock management.",
-    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hemorrhagic_shock.md"
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hemorrhagic_shock.md",
+    "tags": ["emergency", "icu"]
   },
   {
-    "version": 0,
+    "version": 1,
     "key": "hypovolemic_shock",
     "title": "Hypovolemic shock",
     "description": "Mentions key items in Hypovolemic shock management.",
-    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hypovolemic_shock.md"
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/hypovolemic_shock.md",
+    "tags": ["emergency", "icu"]
   }
 ]
