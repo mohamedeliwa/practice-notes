@@ -16,9 +16,9 @@
     "tags": ["drugs", "pulmonology"]
   },
     {
-    "version": 0,
+    "version": 1,
     "key": "systemic_corticosteroids",
-    "title": "systemic_corticosteroids",
+    "title": "Systemic Corticosteroids",
     "description": "Basic notes on systemic corticosteroid dose equivalents, relative potency, duration of action, mineralocorticoid activity.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/drugs/systemic_corticosteroids.md",
     "tags": ["drugs", "pulmonology"]

@@ -42,7 +42,7 @@
     "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/icu/index.json"
   },
   {
-    "version": 2,
+    "version": 3,
     "title": "Drugs",
     "description": "a list of articles focusing on clinical drug adminstration",
     "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/drugs/index.json"
