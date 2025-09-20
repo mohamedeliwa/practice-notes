@@ -41,8 +41,7 @@
   - [ ] an article about refractory asthma
   - [ ] an article about asthma in pregnancy
 - [x] topic for invasive ventilation
-- [ ] topic for abg
-- [ ] steroid whatsapp records
+- [x] topic for abg
 - [ ] Q11
   - [ ] study radiology slides
   - [ ] study pneumonia from OCM 11
