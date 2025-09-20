@@ -4,7 +4,7 @@ Basic notes on systemic corticosteroid dose equivalents, relative potency, durat
 
 ### Systemic Corticosteroid Dose Equivalents
 
-| Drug                             | Apporximate Equivalent Dose | relative Potency |
+| Drug                             | Apporximate Equivalent Dose | Relative Potency |
 | -------------------------------- | --------------------------- | ---------------- |
 | Hydrocortisone (Solu-Cortef)     | 20mg                        | 1                |
 | Cortisone                        | 25mg                        | -                |
