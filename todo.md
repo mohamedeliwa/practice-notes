@@ -41,17 +41,17 @@
   - [ ] an article about refractory asthma
   - [ ] an article about asthma in pregnancy
 - [x] topic for invasive ventilation
-- [ ] topic for abg
-- [ ] steroid whatsapp records
+- [x] topic for abg
 - [ ] Q11
   - [ ] study radiology slides
   - [ ] study pneumonia from OCM 11
   - [ ] refine pneumonia articl
 - [x] add tags to topics
 - [x] upgrade topic versions
-- [ ] merge stage `in progress...`
-- [ ] publish a new version of the android app
-- [ ] update package version of the app and this repo
+- [x] merge stage
+- [x] publish a new version of the android app
+- [ ] write article about steroid administration `in progress...`
+- [ ] write article about inhalers
 - [ ] move articles to corresponding directories
 
 ## articles to be moved to practix web
