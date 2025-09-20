@@ -55,4 +55,18 @@ Basic notes on systemic corticosteroid dose equivalents, relative potency, durat
 | Betamethasone      | Minimal                    |
 | Dexamethasone      | Minimal                    |
 
+### Some Guidance on Prednisolone Administration
+
+- Dose `0.5 - 1 mg/kg` for adults and children
+- Brand Names
+  - Syrup `Predsol`, `Xilone` : each 5ml contains 5mg prednisolone
+  - Syrup `Predsol forte`, `Xilone forte`: each 5ml contains 15mg of prednisolone
+  - Orodispersable Tab `Xilone`: 20mg prednisolone
+
+### Some Guidance on Dexamethsone
+
+- Dose
+- Brand Names
+  - `Phenadone`: each 5ml contains 0.5mg Dexamethasone
+
 
