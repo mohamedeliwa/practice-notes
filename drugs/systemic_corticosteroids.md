@@ -55,7 +55,7 @@ Basic notes on systemic corticosteroid dose equivalents, relative potency, durat
 | Betamethasone      | Minimal                    |
 | Dexamethasone      | Minimal                    |
 
-### Some Guidance on Prednisolone Administration
+### Some Guidance on Prednisolone
 
 - Dose `0.5 - 1 mg/kg` for adults and children
 - Brand Names
@@ -65,8 +65,12 @@ Basic notes on systemic corticosteroid dose equivalents, relative potency, durat
 
 ### Some Guidance on Dexamethsone
 
-- Dose
+- Doses
+
+  - As anti-inflammatory in adult `0.75 mg to 9 mg` orally per day
+  - As anti-inflammatory in pediatric `0.02 mg to 0.3` mg/kg/day
+  - In Asthma pediatric `0.6 mg/kg` oral/IV/IM once
+  - In Croup pediatric `0.6 mg/kg` oral/IM/ IV once; Maximum dose: 16 mg
+
 - Brand Names
   - `Phenadone`: each 5ml contains 0.5mg Dexamethasone
-
-
