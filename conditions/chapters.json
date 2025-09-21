@@ -42,7 +42,7 @@
     "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/icu/index.json"
   },
   {
-    "version": 3,
+    "version": 4,
     "title": "Drugs",
     "description": "a list of articles focusing on clinical drug adminstration",
     "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/drugs/index.json"
@@ -54,7 +54,7 @@
     "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/scores/index.json"
   },
   {
-    "version": 0,
+    "version": 1,
     "title": "Labs",
     "description": "a list of articles focusing on clinical labs",
     "index_url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/labs/index.json"
