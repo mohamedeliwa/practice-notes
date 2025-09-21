@@ -63,14 +63,11 @@ Basic notes on systemic corticosteroid dose equivalents, relative potency, durat
   - Syrup `Predsol forte`, `Xilone forte`: each 5ml contains 15mg of prednisolone
   - Orodispersable Tab `Xilone`: 20mg prednisolone
 
-### Some Guidance on Dexamethsone
+### Some Guidance on Dexamethasone
 
 - Doses
 
-  - As anti-inflammatory in adult `0.75 mg to 9 mg` orally per day
-  - As anti-inflammatory in pediatric `0.02 mg to 0.3` mg/kg/day
-  - In Asthma pediatric `0.6 mg/kg` oral/IV/IM once
-  - In Croup pediatric `0.6 mg/kg` oral/IM/ IV once; Maximum dose: 16 mg
+  - You can calculate the `Prednisolone` dose for the patient then convert it to the equivalent `Dexamethasone`.
 
 - Brand Names
   - `Phenadone`: each 5ml contains 0.5mg Dexamethasone

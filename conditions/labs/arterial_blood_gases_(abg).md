@@ -83,7 +83,7 @@
   - Hypoxemia With normal AaDO₂DD → all causes of Alveolar Hypoventilation
   - Hypoxemia With widened/high AaDO₂DD → Shunt, or V/Q mismatch, or Diffusion defect
 
-## Causes of metabolic acidosis and an increased anion gap
+## Causes of metabolic acidosis and an increased anion gap:
 
 - Lactic acid (shock, infection, tissue ischaemia).
 - Urate (renal failure).
@@ -99,20 +99,20 @@
 - Pancreatic fi stula.
 - Ammonium chloride ingestion.
 
-## Causes Metabolic alkalosis
+## Causes of Metabolic alkalosis:
 
 - Vomiting.
 - K⁺ depletion (diuretics).
 - Burns.
 - Ingestion of base.
 
-## Causes Respiratory acidosis
+## Causes of Respiratory acidosis:
 
 - Type II respiratory failure due to any lung, neuromuscular, or physical cause.
 - Most commonly COPD. Look at the PaO₂. It will probably be low. Is oxygen therapy required? Use controlled O2 (Venturi connector) if COPD is the underlying cause, as too much oxygen may make matters worse.
 - `Beware exhaustion` in asthma, pneumonia, and pulmonary oedema, which can present with this picture when close to respiratory arrest. A normal or high PaCO₂ is worrying. These patients require urgent ITU review for ventilatory support.
 
-## Causes Respiratory alkalosis
+## Causes of Respiratory alkalosis:
 
 - A result of hyperventilation of any cause. CNS causes: Stroke; subarachnoid bleed; meningitis.
 - Others: Mild/moderate asthma; anxiety; altitude; ↑ T°; pregnancy; pulmonary emboli (reflex hyperventilation); drugs, eg salicylates.
