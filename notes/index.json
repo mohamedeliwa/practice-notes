@@ -1,8 +1,8 @@
 [
   {
-    "version": 0,
+    "version": 1,
     "key": "notes_on_inhaler_selection_in_clinical_practice",
-    "title": "Inhaler Selection In Clinical Practice",
+    "title": "Notes on Inhaler Selection In Clinical Practice",
     "description": "Notes on inhaler selction in clinical practice",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/notes/notes_on_inhaler_selection_in_clinical_practice.md",
     "tags": ["notes", "drugs", "pulmonology"]
