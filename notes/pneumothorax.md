@@ -16,7 +16,7 @@
 - Ensure the suspected pneumothorax is not a large emphysematous
   bulla
 
-![Pneumothorax x-ray](../assets/tension_pneumothorax.png)
+![Pneumothorax x-ray](https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/assets/tension_pneumothorax.png)
 
 This is a great educational image from ICU. The inexperienced doctor could be distracted by the poor quality image, missing the lung bases:
 
@@ -27,6 +27,6 @@ Note the large right-sided tension pneumothorax needing immediate decompression!
 **Mediastinum**: Left-shifted, obstructing venous return—so ↓cardiac output, and a threat to life.  
 **Is it being pushed or pulled?** Check hila, bones, and soft tissues. Since the right lung is collapsed and mediastinum shifted to left this suggests right tension pneumothorax. Needle thoracocentesis decompression and a chest drain are needed now.
 
-![Pneumothorax x-ray](../assets/simple_pneumothorax.png)
+![Pneumothorax x-ray](https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/assets/simple_pneumothorax.png)
 
 Large right-sided pneumothorax; note the trachea remains central, suggesting this is a simple pneumothorax, not a tension pneumothorax.
