@@ -3,8 +3,16 @@
     "version": 0,
     "key": "inhaler_selection_in_clinical_practice",
     "title": "Inhaler Selection In Clinical Practice",
-    "description": "Short acting β₂-adrenergic agonist.",
+    "description": "Notes on inhaler selction in clinical practice",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/notes/inhaler_selection_in_clinical_practice.md",
     "tags": ["notes", "drugs", "pulmonology"]
+  },
+  {
+    "version": 0,
+    "key": "chronic_obstructive_pulmonary_disease_(copd)",
+    "title": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "description": "Notes on COPD",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/notes/chronic_obstructive_pulmonary_disease_(copd).md",
+    "tags": ["notes", "pulmonology"]
   }
 ]

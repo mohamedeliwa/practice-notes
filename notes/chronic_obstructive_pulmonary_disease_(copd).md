@@ -60,5 +60,5 @@ Respiratory viruses account for around 30% of exacerbations, with the human rhin
 
 The following are Chest x-rays demonstrates very marked hyperinflation of both lungs. Over 11 posterior ribs are seen, the diaphragms are flattened and there is enlargement of the retrosternal airspace. Pulmonary vasculature not terribly distorted, although there is some prominence of the pulmonary arteries.
 
-![Oxygen Dissociation Curve](../assets/copd_cxr_fp.jpg)
-![Oxygen Dissociation Curve](../assets/copd_cxr_lp.jpg)
+![copd cxr example](https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/assets/copd_cxr_fp.jpg)
+![copd cxr example](https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/assets/copd_cxr_lp.jpg)
