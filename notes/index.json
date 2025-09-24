@@ -1,0 +1,10 @@
+[
+  {
+    "version": 0,
+    "key": "inhaler_selection_in_clinical_practice",
+    "title": "Inhaler Selection In Clinical Practice",
+    "description": "Short acting β₂-adrenergic agonist.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/notes/inhaler_selection_in_clinical_practice.md",
+    "tags": ["notes", "drugs", "pulmonology"]
+  }
+]
