@@ -50,8 +50,8 @@
 - [x] upgrade topic versions
 - [x] merge stage
 - [x] publish a new version of the android app
-- [ ] write article about steroid administration `in progress...`
-- [ ] write article about inhalers
+- [x] write article about steroid administration
+- [ ] write article about inhalers `in progress...`
 - [ ] move articles to corresponding directories
 
 ## articles to be moved to practix web
