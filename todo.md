@@ -51,8 +51,8 @@
 - [x] merge stage
 - [x] publish a new version of the android app
 - [x] write article about steroid administration
-- [ ] write article about inhalers `in progress...`
-- [ ] move articles to corresponding directories
+- [x] write article about inhalers
+- [ ] move articles to corresponding directories `in progress...`
 
 ## articles to be moved to practix web
 
