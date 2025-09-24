@@ -1,0 +1,34 @@
+[
+  {
+    "version": 0,
+    "key": "inhaler_selection_in_clinical_practice",
+    "title": "Inhaler Selection In Clinical Practice",
+    "description": "Notes on inhaler selction in clinical practice",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/notes/inhaler_selection_in_clinical_practice.md",
+    "tags": ["notes", "drugs", "pulmonology"]
+  },
+  {
+    "version": 0,
+    "key": "chronic_obstructive_pulmonary_disease_(copd)",
+    "title": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "description": "Notes on COPD",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/notes/chronic_obstructive_pulmonary_disease_(copd).md",
+    "tags": ["notes", "pulmonology"]
+  },
+  {
+    "version": 0,
+    "key": "oxygen_dissociation_curve",
+    "title": "Oxygen Dissociation Curve",
+    "description": "Notes on Oxygen Dissociation Curve",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/notes/oxygen_dissociation_curve.md",
+    "tags": ["notes", "pulmonology"]
+  },
+  {
+    "version": 0,
+    "key": "pneumothorax",
+    "title": "Pneumothorax",
+    "description": "Notes on Pneumothorax",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/notes/pneumothorax.md",
+    "tags": ["notes", "pulmonology"]
+  }
+]

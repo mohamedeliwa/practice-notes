@@ -4,7 +4,7 @@ The **oxygen dissociation curve** is a graph that shows the relationship between
 
 <br />
 
-![Oxygen Dissociation Curve](../assets/oxyhemoglobin_dissociation_curve.jpg)
+![Oxygen Dissociation Curve](https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/assets/oxyhemoglobin_dissociation_curve.jpg)
 
 ### 🔍 What It Represents:
 
@@ -24,7 +24,7 @@ The **oxygen dissociation curve** is a graph that shows the relationship between
 
 ### 📉 Curve Shifts:
 
-![Oxygen Dissociation Curve](../assets/oxygen_dissociation_curve.jpg)
+![Oxygen Dissociation Curve](https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/assets/oxygen_dissociation_curve.jpg)
 
 - **Right shift** (↓ affinity for O₂, more release to tissues):
 
