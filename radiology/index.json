@@ -1,0 +1,10 @@
+[
+  {
+    "version": 0,
+    "key": "chest_x_ray_interpretation",
+    "title": "Chest X-ray Interpretation",
+    "description": "Mentions key items in Chest X-ray Interpretation.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/radiology/chest_x_ray_interpretation.md",
+    "tags": ["radiology", "pulmonology"]
+  }
+]
