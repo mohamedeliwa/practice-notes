@@ -52,7 +52,9 @@
 - [x] publish a new version of the android app
 - [x] write article about steroid administration
 - [x] write article about inhalers
-- [ ] move articles to corresponding directories `in progress...`
+- [ ] chest x-ray `in progress...`
+  - https://youtu.be/BpXfToKwsFo?list=PLC8eq_8yOepSL22WXOm4cQs3SfdV7g89r&t=1312
+- [ ] move articles to corresponding directories
 
 ## articles to be moved to practix web
 
