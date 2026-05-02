@@ -11,48 +11,20 @@ While Aspergillus spores may be present in healthy lungs, fungal **hyphae** (rat
 ### **Types of Aspergillus Lung Disease**
 
 1. **Severe Asthma with Fungal Sensitization (IgE-Mediated)**
-   - **Cause**: Inhalation of spores.
-   - **Mechanism**: IgE-mediated reaction to spores leading to airway inflammation and bronchospasm.
 
 2. **Allergic Bronchopulmonary Aspergillosis with Bronchiectasis (APBA-B)**
-   - **Cause**: Allergic reaction to Aspergillus (IgE and IgG-mediated) in (usually) asthma patients.
-   - **Characteristics**: Inflammatory damage to airways leading to bronchiectasis. No actual invasion into the airway walls.
 
 3. **Allergic Bronchopulmonary Aspergillosis – Seropositive Only (ABPA-S)**
-   - **Cause**: Similar to APBA, but without bronchiectasis.
-   - **Characteristics**: Mucus plugging and distal consolidation that may flit
-     from area to area. This is one of the causes of **pulmonary eosinophilia**.
 
 4. **Invasive Aspergillus (IA) Pneumonia**
-   - **Cause**: Aspergillus invasion into the lungs, usually seen in immunocompromised patients.
-   - **Risk Factors**: Often seen in **immunosuppressed** individuals, COPD patients, and critically ill patients.
-   - **Multisystem Disorder**: Can invade almost any part of the body.
 
 5. **Chronic Pulmonary Aspergillosis (CPA)**
-   - **Cause**: Almost exclusively found in those pre-existing lung disease leading to air- filled cavity or bulla(e.g., previous tuberculosis, non- tuberculous mycobacteria (NTM), COPD).
-   - **Characteristics**: Aspergillus IgG is positive in the serum, and Aspergillus may be found in sputum.
 
 6. **Aspergilloma**
-   - **Cause**: Growth of Aspergillus as a "ball" of fungus in an existing lung cavity.
-   - **Symptoms**: Asymptomatic but If symptomatic this is a form of **CPA**.
-   - **Characteristic**: does not invade surrounding tissue.
 
 7. **Hypersensitivity Pneumonitis (Extrinsic Allergic Alveolitis)**
-   - **Cause**: Immune Inflammatory reaction to inhalation of large numbers of spores.
 
 ---
-
-### **Comparison Table: Aspergillus Lung Diseases**
-
-| **Disease**                                 | **Cause**                                    | **Mechanism**                                 | **Characteristics**                                  | **Common Risk Factors**                          |
-| ------------------------------------------- | -------------------------------------------- | --------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------ |
-| **Severe Asthma with Fungal Sensitization** | Inhaled Aspergillus spores                   | IgE-mediated reaction causing inflammation    | Airway inflammation and bronchospasm                 | Asthma                                           |
-| **APBA with Bronchiectasis (APBA-B)**       | Allergic reaction (IgE/IgG) to Aspergillus   | Inflammatory damage leading to bronchiectasis | Airway damage with bronchiectasis                    | Asthma                                           |
-| **ABPA – Seropositive Only (ABPA-S)**       | Similar to APBA                              | Mucus plugging, consolidation                 | No bronchiectasis, pulmonary eosinophilia            | Asthma                                           |
-| **Invasive Aspergillus Pneumonia (IA)**     | Aspergillus invasion of lung tissue          | Invasive infection                            | Multi-system involvement, severe infection           | Immunosuppression, COPD, Critical illness        |
-| **Chronic Pulmonary Aspergillosis (CPA)**   | Aspergillus in patients with lung disease    | Chronic infection                             | Air-filled cavities/bullae, Aspergillus IgG positive | Tuberculosis, COPD, Non-tuberculous Mycobacteria |
-| **Aspergilloma**                            | Aspergillus growing in a pre-existing cavity | Fungal ball formation                         | Usually asymptomatic, may cause CPA                  | Previous lung disease with cavities              |
-| **Hypersensitivity Pneumonitis**            | Inhaled spores causing immune reaction       | Immune inflammatory response                  | Lung damage due to immune response                   | Inhalation of large numbers of spores            |
 
 # Severe asthma with fungal sensitization
 
@@ -160,3 +132,45 @@ While Aspergillus spores may be present in healthy lungs, fungal **hyphae** (rat
 - Surgical resection of the infected focus should be considered in some (e.g. lung lesions contiguous with the heart or great vessels, chest wall invasion, osteomyelitis, pericardial infection, and endocarditis).
 
 # Chronic pulmonary aspergillosis
+
+### Clinical features
+
+Suspect semi- IA when:
+
+- Middle- aged
+- Reason for mild immunosuppression, e.g. diabetes, alcoholism, and steroid usage (including inhaled)
+- A pre-existing chronic lung disease
+- Indolent presentation with fever, malaise and weight loss
+- Associated with cough, SOB, chest discomfort and occasional haemoptysis
+- Patchy indolent CXR changes.
+
+### Investigations
+
+- Sputum samples (isolation of hyphae)
+- Varied radiological appearance including:
+  - lung cavities with or without an aspergilloma
+  - infiltrates
+  - nodules
+  - various degrees of lung or pleural fibrosis.
+- Different forms are recognized with
+  - sub-acute or semi-IA (some immunosuppression, more rapid course, nodules, and consolidation predominate on CT),
+  - chronic cavitatory pulmonary aspergillosis (constitutional symptoms, thick walled cavities, single or multiple with or without an aspergilloma), and chronic fibrosing pulmonary aspergillosis (characterized by progressive fibrosis)
+
+- **Diagnostic test** is IgG to Aspergillus with associated evidence of aspergillus in the sputum (culture or polymerase chain reaction (PCR))
+
+### Management
+
+- Steroids are not recommended (as mild immune suppression is the dominant cause)
+  - In contrast to ABPA the damage is due to immune defence mechanisms.
+- Oral itraconazole/ voriconazole,
+  - IV therapy is required for severely ill patients.
+  - Alternative treatment options are as for IA.
+
+### Haemoptysis
+
+- Tranexamic acid (Kapron)
+- Treat associated bacterial infections
+- Consider itraconazole/ voriconazole
+- Bronchial arteriograms reveal vessels supplying the cavity wall that can be embolized, even if not actively bleeding.
+- Surgery can be difficult, as mycetomas may be stuck to the chest wall.
+- A few case reports exist of successful reduction of haemoptysis with radiotherapy
