@@ -86,5 +86,13 @@
     "description": "Mentions key items in Aspergillus lung disease management and its different types (Allergic Bronchopulmonary Aspergillosis APBA, Invasive Aspergillus IA, Chronic Pulmonary Aspergillosis CPA, Aspergilloma, Hypersensitivity Pneumonitis).",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pulmonology/aspergillus_lung_disease.md",
     "tags": ["pulmonology"]
+  },
+  {
+    "version": 1,
+    "key": "community_acquired_pneumonia_(cap)",
+    "title": "Community-acquired pneumonia (CAP)",
+    "description": "Mentions key items in Community-acquired pneumonia (CAP) management.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/conditions/pulmonology/community_acquired_pneumonia_(cap).md",
+    "tags": ["pulmonology"]
   }
 ]
