@@ -53,7 +53,8 @@
 - [x] write article about steroid administration
 - [x] write article about inhalers
 - [ ] CAP 
-  - [ ] finish the article `in progress..`
+  - [ ] finish the article 
+    - CAP: severity assessment `in progress..`
   - [ ] publish it
 - [ ] chest x-ray 
   - https://youtu.be/BpXfToKwsFo?list=PLC8eq_8yOepSL22WXOm4cQs3SfdV7g89r&t=1312
