@@ -8,11 +8,19 @@
     "tags": ["scores", "pulmonology"]
   },
   {
-    "version": 1,
+    "version": 2,
     "key": "curb65",
     "title": "CURB 65 Score",
     "description": "an evidence based tool used to risk stratify patients presenting with pneumonia.",
     "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/scores/curb65.md",
     "tags": ["scores", "pulmonology"]
+  },
+  {
+    "version": 1,
+    "key": "abbreviated_mental_test_score_(amts)",
+    "title": "Abbreviated mental test score (AMTS)",
+    "description": "an evidence based tool used to assess patients' mental state.",
+    "url": "https://raw.githubusercontent.com/mohamedeliwa/practice-notes/refs/heads/master/scores/abbreviated_mental_test_score_(amts).md",
+    "tags": ["scores"]
   }
 ]

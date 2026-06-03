@@ -54,3 +54,24 @@ An infection of lung tissue characterized by
 
 - Fever, pleuritic pain, dyspnoea, and tachypnoea
 - Signs on chest examination.
+
+## Severity Assessment
+
+Severity models should be regarded as adjuncts to clinical assessment
+
+### Poor prognostic factors
+
+Those with two or more adverse prognostic factors are at **high risk of death**
+and should be managed as for **severe CAP**:
+
+- Age ≥65 y
+- Coexisting disease incl. cardiac disease, diabetes, COPD, stroke
+- RR ≥30/ min— one of the most reliable predictors of disease severity
+- Confusion Abbreviated mental test score (AMTS) ≤8
+- BP Systolic ≤90 mmHg and/ or diastolic ≤60 mmHg
+- Hypoxaemia Respiratory failure, with PaO₂ <8 kPa (≈ 60 mmHg) and the need for assisted ventilation, predicts mortality
+- Urea ≥7 mmol/L (≈ 42 mg/dL)
+- Albumin <35 g/L
+- WCC >20 or <4 ×109/L are each predictive of poor outcomes
+- Radiology Bilateral or multilobe involvement. In patients admitted to ICU, progression of CXR changes is a poor prognostic marker
+- Microbiology Positive blood culture, whatever the pathogen isolated.

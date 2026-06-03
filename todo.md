@@ -54,8 +54,10 @@
 - [x] write article about inhalers
 - [ ] CAP 
   - [ ] finish the article 
-    - CAP: severity assessment `in progress..`
+    - CAP: investigations `in progress..`
   - [ ] publish it
+- [ ] Update Pulmonology and Scores chapter versions
+- [ ] update the state version
 - [ ] chest x-ray 
   - https://youtu.be/BpXfToKwsFo?list=PLC8eq_8yOepSL22WXOm4cQs3SfdV7g89r&t=1312
 - [ ] move articles to corresponding directories
